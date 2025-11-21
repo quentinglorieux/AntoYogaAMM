@@ -43,4 +43,10 @@
 definePageMeta({
   layout: 'default'
 })
+
+useSeoMeta({
+  title: 'Antonine Rochet - Accompagnatrice en Montagne Diplômée | Guide Rando',
+  description: 'Antonine Rochet, accompagnatrice en montagne diplômée et professeure de yoga Iyengar. Randonnées guidées en Seine-et-Marne, Jura, Vosges et Massif Central. Trail et trek en forêt de Fontainebleau.',
+  keywords: 'accompagnatrice montagne diplômée, guide montagne Fontainebleau, accompagnatrice rando 77, guide randonnée Seine-et-Marne, AMM diplômée, guide nature, accompagnateur montagne'
+})
 </script>

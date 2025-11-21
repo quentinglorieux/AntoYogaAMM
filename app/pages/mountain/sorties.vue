@@ -43,4 +43,10 @@
 definePageMeta({
   layout: 'default'
 })
+
+useSeoMeta({
+  title: 'Sorties et Randonnées Guidées en Montagne | Antonine Rochet',
+  description: 'Randonnées et sorties en montagne avec accompagnatrice diplômée : Fontainebleau, Jura, Vosges, Massif Central, Belledonne. Trail, rando, trek en Seine-et-Marne et massifs français.',
+  keywords: 'randonnée guidée Fontainebleau, trail Seine-et-Marne, rando Jura, randonnée Vosges, accompagnatrice montagne, sortie montagne 77, trek France, randonnée guidée massif central, trail Fontainebleau, rando forêt'
+})
 </script>

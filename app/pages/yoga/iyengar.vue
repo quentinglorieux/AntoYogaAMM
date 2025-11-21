@@ -45,7 +45,8 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Le Yoga Iyengar - Antonine Rochet',
-  description: 'Découvrez la méthode du yoga Iyengar, ses principes et ses bienfaits'
+  title: 'Qu\'est-ce que le Yoga Iyengar ? | Méthode et Bienfaits',
+  description: 'Découvrez la méthode de yoga Iyengar : alignement précis, utilisation d\'accessoires, progression adaptée. Idéal pour débutants et pratiquants expérimentés à Fontainebleau et Larchant.',
+  keywords: 'yoga Iyengar méthode, qu\'est-ce que le yoga Iyengar, yoga alignement, yoga avec accessoires, yoga débutant, yoga précis, BKS Iyengar, yoga thérapeutique'
 })
 </script>

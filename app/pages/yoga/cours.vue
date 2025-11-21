@@ -174,7 +174,8 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Les Cours - Antonine Rochet Yoga',
-  description: 'Découvrez les cours de yoga Iyengar proposés par Antonine Rochet'
+  title: 'Cours de Yoga Iyengar à Larchant, Fontainebleau, Nemours | Planning & Horaires',
+  description: 'Tous les cours de yoga Iyengar avec Antonine Rochet : Larchant, La Chapelle-la-Reine, Nemours, Le Vaudoué. Planning détaillé, horaires et lieux. Cours tous niveaux débutant à avancé.',
+  keywords: 'cours yoga Larchant, horaires yoga Fontainebleau, planning yoga Nemours, cours yoga 77, yoga débutant Seine-et-Marne, cours yoga Iyengar collectif, yoga La Chapelle-la-Reine horaires, cours yoga Le Vaudoué'
 })
 </script>

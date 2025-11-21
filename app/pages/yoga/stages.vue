@@ -72,7 +72,8 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Les Stages - Antonine Rochet Yoga',
-  description: 'Participez aux stages de yoga Iyengar proposés par Antonine Rochet'
+  title: 'Stages de Yoga Iyengar à Larchant et Fontainebleau | Week-ends & Retraites',
+  description: 'Stages de yoga Iyengar en Seine-et-Marne : week-ends intensifs, retraites, ateliers thématiques. Approfondissez votre pratique à Larchant près de Fontainebleau.',
+  keywords: 'stage yoga Larchant, stage yoga Fontainebleau, retraite yoga 77, week-end yoga Seine-et-Marne, stage yoga Iyengar, atelier yoga, séjour yoga France'
 })
 </script>

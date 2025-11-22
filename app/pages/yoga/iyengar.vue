@@ -34,6 +34,10 @@
             Le pranayama vient ancrer cela, redonnant toute leur dimension et leur essentialité à l'inspiration et à l'expiration.
           </p>
         </section>
+
+        <div class="mt-12 rounded-lg overflow-hidden shadow-lg mx-40">
+          <NuxtImg src="/images/anto5.jpg" alt="Antonine Rochet pratiquant le yoga" class="w-full h-auto grayscale" />
+        </div>
       </div>
     </div>
   </div>

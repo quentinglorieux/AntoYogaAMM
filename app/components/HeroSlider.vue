@@ -8,7 +8,7 @@
         @click="setActiveSection('yoga')"
       >
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover" />
-        <div class="absolute inset-0 bg-linear-to-br from-purple-900/10 to-pink-900/10"></div>
+        <div class="absolute inset-0 bg-linear-to-br from-teal-900/10 to-pink-900/10"></div>
 
         <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
           <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
@@ -89,7 +89,7 @@ const setActiveSection = (section: 'yoga' | 'mountain') => {
         @click="setActiveSection('yoga')"
       >
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover" />
-        <div class="absolute inset-0 bg-gradient-to-br from-purple-900/40 to-pink-900/40"></div>
+        <div class="absolute inset-0 bg-gradient-to-br from-teal-900/40 to-pink-900/40"></div>
 
         <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
           <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
@@ -253,7 +253,7 @@ const setActiveSection = (section: 'yoga' | 'mountain') => {
           @click="setActiveSection('yoga')"
         >
           <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover" />
-          <div class="absolute inset-0 bg-gradient-to-br from-purple-900/40 to-pink-900/40"></div>
+          <div class="absolute inset-0 bg-gradient-to-br from-teal-900/40 to-pink-900/40"></div>
 
           <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
             <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>

@@ -8,7 +8,7 @@
         @click="setActiveSection('yoga')"
       >
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover" />
-        <div class="absolute inset-0 bg-linear-to-br from-purple-900/15 to-pink-900/15"></div>
+        <div class="absolute inset-0 bg-linear-to-br from-teal-900/15 to-pink-900/15"></div>
 
         <div v-if="activeSection === 'yoga'" class="relative z-10 w-full h-full flex flex-col items-center justify-between py-16 px-8 animate-fade-in">
           <div></div>

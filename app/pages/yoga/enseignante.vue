@@ -40,11 +40,11 @@
         </p>
         <ul class="space-y-2 text-gray-600 mb-6">
           <li class="flex items-start">
-            <span class="text-purple-600 mr-2">•</span>
+            <span class="text-teal-600 mr-2">•</span>
             <span>Certificat d'enseignement du yoga Iyengar</span>
           </li>
           <li class="flex items-start">
-            <span class="text-purple-600 mr-2">•</span>
+            <span class="text-teal-600 mr-2">•</span>
             <span>Formation continue auprès de professeurs seniors</span>
           </li>
   

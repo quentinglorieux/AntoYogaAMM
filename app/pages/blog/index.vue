@@ -22,7 +22,7 @@
             <div v-else-if="articles && articles.length > 0" class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
                 <NuxtLink v-for="article in articles" :key="article.path" :to="article.path"
                     class="group flex flex-col overflow-hidden bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300">
-                    <div class="flex-shrink-0 relative overflow-hidden h-48">
+                    <div class="flex-shrink-0 relative overflow-hidden h-58">
                         <img v-if="article.image"
                             class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
                             :src="article.image" :alt="article.title" />

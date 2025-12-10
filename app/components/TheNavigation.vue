@@ -58,6 +58,10 @@
             active-class="text-teal-600 font-medium">
             Les Stages
           </NuxtLink>
+          <NuxtLink to="/blog" class="text-gray-600 hover:text-teal-600 transition-colors"
+            active-class="text-teal-600 font-medium">
+            Le Blog
+          </NuxtLink>
         </div>
 
         <!-- Navigation Montagne Desktop -->
@@ -70,9 +74,13 @@
             active-class="text-blue-600 font-medium">
             L'Accompagnatrice
           </NuxtLink>
-          <NuxtLink to="/mountain/contact" class="text-gray-600 hover:text-blue-600 transition-colors"
+          <!-- <NuxtLink to="/mountain/contact" class="text-gray-600 hover:text-blue-600 transition-colors"
             active-class="text-blue-600 font-medium">
             Contact
+          </NuxtLink> -->
+          <NuxtLink to="/blog" class="text-gray-600 hover:text-blue-600 transition-colors"
+            active-class="text-blue-600 font-medium">
+            Le Blog
           </NuxtLink>
         </div>
 
@@ -126,6 +134,10 @@
                 active-class="text-teal-600 font-medium" @click="isOpen = false">
                 Les Stages
               </NuxtLink>
+              <NuxtLink to="/blog" class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
+                active-class="text-teal-600 font-medium" @click="isOpen = false">
+                Le Blog
+              </NuxtLink>
             </div>
 
             <!-- Mobile Links Montagne -->
@@ -144,6 +156,10 @@
                 class="text-2xl font-light text-gray-800 hover:text-blue-600 transition-colors"
                 active-class="text-blue-600 font-medium" @click="isOpen = false">
                 Contact
+              </NuxtLink>
+              <NuxtLink to="/blog" class="text-2xl font-light text-gray-800 hover:text-blue-600 transition-colors"
+                active-class="text-blue-600 font-medium" @click="isOpen = false">
+                Le Blog
               </NuxtLink>
             </div>
 

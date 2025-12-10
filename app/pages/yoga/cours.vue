@@ -3,6 +3,9 @@
     <div class="max-w-6xl mx-auto px-6 py-16">
       <h1 class="text-5xl font-light text-gray-800 mb-10">Les Cours</h1>
 
+
+
+
       <div class="space-y-8">
         <!-- Au studio de Larchant -->
         <section class="bg-white rounded-lg shadow-sm p-8 space-y-6">
@@ -11,7 +14,8 @@
           <div class="space-y-6 text-gray-700">
             <div class="flex items-start gap-4">
               <div class="w-24 h-24 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                <NuxtImg src="/images/pose1.png" alt="Pratique intermédiaire / avancé" class="w-full h-full object-contain" />
+                <NuxtImg src="/images/pose1.png" alt="Pratique intermédiaire / avancé"
+                  class="w-full h-full object-contain" />
               </div>
               <div class="flex-1">
                 <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-1">
@@ -39,7 +43,8 @@
 
             <div class="flex items-start gap-4">
               <div class="w-24 h-24 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                <NuxtImg src="/images/pose3.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
+                <NuxtImg src="/images/pose3.png" alt="Pratique débutant / intermédiaire"
+                  class="w-full h-full object-contain" />
               </div>
               <div class="flex-1">
                 <h3 class="text-xl font-medium text-gray-900">Pratique débutant / intermédiaire</h3>
@@ -89,7 +94,8 @@
                   <p>Rue du Clos<br />77760 La Chapelle-la-Reine</p>
                 </div>
                 <div class="mt-4">
-                  <UButton to="https://www.assodmd.fr/2023/SiteDMD/menu.php" target="_blank" rel="noopener" color="primary" variant="soft">
+                  <UButton to="https://www.assodmd.fr/2023/SiteDMD/menu.php" target="_blank" rel="noopener"
+                    color="primary" variant="soft">
                     En savoir plus
                   </UButton>
                 </div>
@@ -116,14 +122,15 @@
                   <p>37 avenue Carnot<br />77140 Nemours</p>
                 </div>
                 <div class="mt-4">
-                  <UButton to="https://magic-form.fr/clubs/saint-pierre-les-nemours" target="_blank" rel="noopener" color="primary" variant="soft">
+                  <UButton to="https://magic-form.fr/clubs/saint-pierre-les-nemours" target="_blank" rel="noopener"
+                    color="primary" variant="soft">
                     En savoir plus
                   </UButton>
                 </div>
               </div>
             </div>
           </div>
-          
+
           <!-- Le Vaudoué -->
           <div class=" border-gray-100 rounded-lg">
             <div class="flex items-start gap-4">
@@ -133,7 +140,7 @@
               <div class="flex-1">
                 <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-2">
                   <h3 class="text-2xl font-light text-gray-900">Le Vaudoué</h3>
-                   <span class="text-sm text-teal-700">Débutant / intermédiaire</span>
+                  <span class="text-sm text-teal-700">Débutant / intermédiaire</span>
                 </div>
                 <ul class="mt-3 space-y-1 text-gray-700">
                   <li>Lundi — 19h00–20h30</li>
@@ -142,7 +149,8 @@
                   <p class="font-medium">ESF77</p>
                 </div>
                 <div class="mt-4">
-                  <UButton to="https://magic-form.fr/clubs/saint-pierre-les-nemours" target="_blank" rel="noopener" color="primary" variant="soft">
+                  <UButton to="https://magic-form.fr/clubs/saint-pierre-les-nemours" target="_blank" rel="noopener"
+                    color="primary" variant="soft">
                     En savoir plus
                   </UButton>
                 </div>

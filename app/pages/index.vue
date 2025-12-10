@@ -17,6 +17,6 @@ useSeoMeta({
   ogImage: '/images/anto4.jpg',
   ogType: 'website',
   twitterCard: 'summary_large_image',
-  keywords: 'yoga Larchant, yoga Fontainebleau, yoga Iyengar Seine-et-Marne, cours yoga Nemours, yoga La Chapelle-la-Reine, yoga Le Vaudoué, accompagnatrice montagne, randonnée Fontainebleau, trail Seine-et-Marne, sorties montagne, randonnée Jura, randonnée Vosges, yoga 77, stage yoga, yoga débutant, accompagnement montagne, guide montagne, randonnée guidée, trek France'
+  keywords: 'yoga Larchant, yoga Fontainebleau, yoga Iyengar Seine-et-Marne, cours yoga Nemours, yoga La Chapelle-la-Reine, yoga Le Vaudoué, accompagnatrice montagne, randonnée Fontainebleau, trail Seine-et-Marne, sorties montagne, randonnée Jura, randonnée Vosges, yoga 77, stage yoga, yoga débutant, accompagnement montagne, guide montagne, randonnée guidée, trek France, 25 bosses, yoga grimpe, yoga trail, yoga escalade, rando yoga'
 })
 </script>

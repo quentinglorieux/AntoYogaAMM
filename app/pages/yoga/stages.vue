@@ -15,7 +15,20 @@
             Des stages de yoga Iyengar pour approfondir votre pratique dans un cadre privilégié.
           </p>
 
-          <div class="space-y-6">
+          <div class="mt-12 bg-slate-500 rounded-lg p-6">
+            <div class="text-gray-100">
+              <strong>Prochains stage :</strong>
+              <span> 9-10 Février 2026 <br>
+                Un stage d'un week-end sur le thème des Inversions au Studio de Larchant.</span>
+              <div>
+                Me contacter: <a href="mailto:antonine.rochet@hotmail.fr"
+                  class="text-blue-200 hover:underline">antonine.rochet@hotmail.fr</a>
+              </div>
+
+            </div>
+          </div>
+
+          <div class="space-y-6 mt-12">
             <div class="bg-white rounded-lg shadow-sm p-8">
               <h2 class="text-2xl font-light text-gray-800 mb-4">Stages week-end</h2>
               <p class="text-gray-600 mb-4">
@@ -24,7 +37,7 @@
               <ul class="space-y-2 text-gray-600">
                 <li>• Durée : 2 jours</li>
                 <li>• Horaires : Samedi et dimanche 9h-12h / 14h-17h</li>
-                <li>• Tarif : 120€</li>
+                <li>• Tarif : 10€ / heure de cours</li>
               </ul>
             </div>
 
@@ -54,12 +67,7 @@
             </div>
           </div>
 
-          <div class="mt-12 bg-teal-200 rounded-lg p-6">
-            <p class="text-gray-700">
-              <strong>Prochains stages :</strong> Consultez régulièrement cette page pour connaître 
-              les dates des prochains stages ou contactez-nous directement.
-            </p>
-          </div>
+
         </div>
       </div>
     </div>

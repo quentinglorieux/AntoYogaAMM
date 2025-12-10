@@ -13,13 +13,14 @@
           <div class="prose prose-lg max-w-none">
             <h2 class="text-3xl font-light text-gray-900 mb-4">Explorez la nature</h2>
             <p class="text-gray-700 leading-relaxed">
-              Accompagnatrice en montagne diplômée, je vous propose des sorties adaptées à tous les niveaux dans les plus beaux massifs.
+              Accompagnatrice en montagne diplômée, je vous propose des sorties adaptées à tous les niveaux dans les
+              plus beaux massifs.
             </p>
             <p class="text-gray-700 leading-relaxed">
               Des randonnées d'une journée aux séjours de plusieurs jours, découvrez la montagne en toute sécurité.
             </p>
           </div>
-          
+
           <div class="mt-8">
             <UButton to="/mountain/accompagnatrice" size="lg" color="primary" variant="solid">
               En savoir plus
@@ -27,12 +28,8 @@
           </div>
         </div>
 
-        <div class="rounded-xl overflow-hidden shadow-2xl">
-          <NuxtImg 
-            src="/images/mountain1.jpg" 
-            alt="Sorties en montagne" 
-            class="w-full h-[500px] object-cover"
-          />
+        <div class="rounded-xl overflow-hidden shadow-2xl lg:ml-40">
+          <NuxtImg src="/images/lulu-amm.jpg" alt="Sorties en montagne" class="w-full h-full object-cover" />
         </div>
       </div>
     </div>

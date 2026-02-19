@@ -10,7 +10,7 @@
       <div class="space-y-10 text-gray-600 leading-relaxed">
         <p class="text-lg">
           Le studio de yoga est un espace dédié à la pratique du yoga Iyengar, situé dans un cadre
-          paisible et lumineux.
+          paisible et lumineux. 
         </p>
 
         <section>

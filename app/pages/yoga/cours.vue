@@ -23,7 +23,7 @@
                   <p class="text-sm text-gray-500">* Adaptation aux débutant·es possible</p>
                 </div>
                 <ul class="mt-2 space-y-1">
-                  <li>Lundi — 12h20–13h50</li>
+                  <li>Lundi — 12h30–14h00</li>
                   <li>Mercredi — 18h30–20h00</li>
                 </ul>
               </div>
@@ -36,7 +36,8 @@
               <div class="flex-1">
                 <h3 class="text-xl font-medium text-gray-900">Yoga doux</h3>
                 <ul class="mt-2 space-y-1">
-                  <li>Jeudi — 12h20–13h20</li>
+                  <li>Mardi — 20h00-21h00</li>
+                  <li>Jeudi — 12h30–13h30</li>
                 </ul>
               </div>
             </div>
@@ -49,6 +50,8 @@
               <div class="flex-1">
                 <h3 class="text-xl font-medium text-gray-900">Pratique débutant / intermédiaire</h3>
                 <ul class="mt-2 space-y-1">
+                  <li>Lundi — 10h45-12h00</li>
+                  <li>Mardi — 18h30-20h00</li>
                   <li>Jeudi — 18h30–20h00</li>
                 </ul>
               </div>
@@ -72,7 +75,7 @@
         <section class="bg-white rounded-lg shadow-sm p-8 space-y-8">
           <h2 class="text-3xl font-light text-gray-900">Dans d'autres lieux</h2>
 
-          <!-- La Chapelle-la-Reine -->
+          <!-- La Chapelle-la-Reine 
           <div class=" border-gray-100 rounded-lg ">
             <div class="flex items-start gap-4">
               <div class="w-24 h-24 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
@@ -101,7 +104,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div>-->
 
           <!-- Nemours -->
           <div class=" border-gray-100 rounded-lg ">

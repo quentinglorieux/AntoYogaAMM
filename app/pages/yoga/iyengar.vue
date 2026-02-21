@@ -40,33 +40,25 @@
       <div class="space-y-8 text-stone-900 leading-relaxed">
         <div class="bg-white/90 backdrop-blur-sm shadow-sm rounded-2xl p-8 border border-stone-200/60 flex flex-col gap-6">
           <p class="text-lg">
-            Sangles, chaises, briques, bancs, couvertures, bâtons…<br />
-            Les supports introduits par B.K.S. Iyengar pour nous guider vers un asana (posture) exacte ou pratiquer le
-            pranayama (respiration) sont multiples.
-            Tout comme ses indications laissées en héritage :
+            La pratique posturale, voilà une porte d'entrée sur le chemin du yoga. Elle nous fait chercher l'équilibre entre souplesse et
+           résistance, entre effort et aisance, elle nous fait chercher tout court. Plus le corps s'engage dans la pratique, plus il se découvre et se conscientise. Il ne faudrait rien 
+           dire de plus pour laisser chacun et chacune libre de sillonner.
           </p>
           <blockquote class="border-l-4 border-orange-500 pl-6 py-4 italic text-stone-800 bg-white/60 rounded-r">
-            l'extension du gros orteil, la direction donnée à la peau du mollet, le relâchement de la langue…
+            La direction du coccyx, le placement du regard, le mouvement de la peau, le relâchement de la langue : des actions et des contre-actions d'une infinie subtilité pour trouver
+            le centre et s'y reposer. B.K.S Iyengar a apporté sa pierre à l'édifice en enrichissant la pratique posturale de supports et de nombreuses indications qui se sont transmises de mentors à élèves.
+            Il a ainsi ouvert la pratique à tous les corps, sans discrimination,
+            pour pouvoir transmettre le yoga au plus grand nombre et aussi graduellement que faire se peut.
           </blockquote>
-
-          <p>
-            Selon sa discipline, pas une partie de notre corps ne doit échapper à notre conscience.
-          </p>
         </div>
 
         <section class="bg-white/90 backdrop-blur-sm shadow-sm rounded-2xl p-8 border border-stone-200/60 relative overflow-hidden">
           <h2 class="text-3xl font-light text-stone-950 mb-4">La méditation dans l'action</h2>
           <p class="mb-4">
-            Des asanas les plus simples (tadasana) aux plus complexes (mandalasana), les multiples actions à effectuer à
-            l'unisson avec la respiration permettent de s'abandonner à la pratique du yoga.
+            De mentor à élève, depuis B.K.S Iyengar 
           </p>
           <p class="mb-4">
-            Ainsi, le mental se résorbe, notre volonté de faire s'efface au profit de notre observation qui scrute
-            chaque sensation, chaque transformation interne.
-          </p>
-          <p>
-            Le pranayama vient ancrer cela, redonnant toute leur dimension et leur essentialité à l'inspiration et à
-            l'expiration.
+            bla
           </p>
         </section>
 

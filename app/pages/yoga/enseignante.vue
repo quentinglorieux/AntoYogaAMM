@@ -23,7 +23,7 @@
           <div class="bg-white shadow-sm rounded-2xl p-6 border border-stone-200/60">
             <h2 class="text-3xl font-light text-stone-950 mb-6">Antonine Rochet</h2>
             <p class="text-xl text-stone-800 leading-relaxed mb-6">
-              Professeure certifiée de yoga Iyengar niveau 1
+              Professeure certifiée de Yoga Iyengar Niveau 1
             </p>
           </div>
 
@@ -55,19 +55,19 @@
         <ul class="space-y-2 text-stone-800 mb-6">
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>2016-2024 : élève de Daniele Navelo</span>
+            <span>2016-2024 : Élève de Daniele Navelo</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>2022 : obtention du Certificat de yoga pré/post-natal de la Méthode De Gasquet</span>
+            <span>2022 : Obtention du Certificat de Yoga Pré/Post-natal de la Méthode De Gasquet</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>2024 : obtention du Certificat d'enseignement du yoga Iyengar niveau 1</span>
+            <span>2024 : Obtention du Certificat de Yoga Iyengar Niveau 1</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>2024-aujourd'hui : élève de Noa Marchand</span>
+            <span>2024-aujourd'hui : Élève de Noa Marchand</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>

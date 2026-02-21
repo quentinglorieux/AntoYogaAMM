@@ -1,6 +1,17 @@
 <template>
-  <div class="min-h-screen bg-gradient-to-br from-green-50 to-teal-100">
-    <div class="max-w-6xl mx-auto px-6 py-16">
+  <div class="min-h-screen bg-gradient-to-br from-green-50 to-teal-100 relative overflow-hidden">
+
+    <!-- Lulu illustration — grande en arrière-plan -->
+    <div class="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+      <NuxtImg
+        src="/images/lulu-om-nobg.png"
+        alt=""
+        class="absolute top-1/2 left-1/2 h-[110%] w-auto object-contain"
+        style="opacity: 0.11; filter: grayscale(10%) sepia(10%); mix-blend-mode: multiply; transform: translate(-50%, -50%) rotate(15deg);"
+      />
+    </div>
+
+    <div class="max-w-6xl mx-auto px-6 py-16 relative z-10">
       <h1 class="text-5xl font-light text-gray-800 mb-10">L'Enseignante</h1>
 
       <div class="flex flex-col lg:flex-row gap-8 mb-10">
@@ -9,7 +20,7 @@
 
         <!-- Contenu principal -->
         <div class="flex-1 space-y-8">
-          <div class="bg-white rounded-lg shadow-sm p-8">
+          <div class="bg-white/40 rounded-lg shadow-sm p-6">
             <h2 class="text-3xl font-light text-gray-800 mb-6">Antonine Rochet</h2>
             <p class="text-xl text-gray-600 leading-relaxed mb-6">
               Professeure certifiée de yoga Iyengar et accompagnatrice en montagne.
@@ -18,7 +29,7 @@
 
           <!-- Image 2 en dessous du bloc blanc -->
           <div class="rounded-lg overflow-hidden shadow-lg">
-            <NuxtImg src="/images/anto2.jpg" alt="Antonine Rochet" class="w-full h-auto" />
+            <NuxtImg src="/images/anto_soleil.jpeg" alt="Antonine Rochet" class="w-full h-auto" />
           </div>
         </div>
 

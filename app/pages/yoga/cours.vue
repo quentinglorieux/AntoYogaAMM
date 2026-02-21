@@ -1,13 +1,22 @@
 <template>
   <div class="min-h-screen bg-linear-to-br from-green-50 to-teal-100 relative overflow-hidden">
 
+    <!-- Lulu illustration — grande en arrière-plan -->
+    <div class="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+      <NuxtImg
+        src="/images/lulu-corde2-nobg.png"
+        alt=""
+        class="absolute top-1/2 left-1/2 h-[110%] w-auto object-contain"
+        style="opacity: 0.11; filter: grayscale(10%) sepia(10%); mix-blend-mode: multiply; transform: translate(-50%, -50%) rotate(-12deg);"
+      />
+    </div>
 
     <div class="max-w-6xl mx-auto px-6 py-16 relative z-10">
       <h1 class="text-5xl font-light text-gray-800 mb-10">Les Cours</h1>
 
       <div class="space-y-8">
         <!-- Au studio de Larchant -->
-        <section class="bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm p-8 space-y-6 relative overflow-hidden">
+        <section class="bg-white/40 rounded-2xl shadow-sm p-6 space-y-6 relative overflow-hidden">
 
           <h2 class="text-3xl font-light text-gray-900">Au studio de Larchant</h2>
 
@@ -73,7 +82,7 @@
 
 
         <!-- Dans d'autres lieux -->
-        <section class="bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm p-8 space-y-8 relative overflow-hidden">
+        <section class="bg-white/40 rounded-2xl shadow-sm p-6 space-y-8 relative overflow-hidden">
 
           <h2 class="text-3xl font-light text-gray-900">Dans d'autres lieux</h2>
 
@@ -84,10 +93,8 @@
                 <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="Nemours" class="w-full h-full object-contain" />
               </div>
               <div class="flex-1">
-                <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-2">
-                  <h3 class="text-2xl font-light text-gray-900">Nemours</h3>
-                  <span class="text-sm text-teal-700">Débutant / intermédiaire</span>
-                </div>
+                <h3 class="text-2xl font-light text-gray-900">Nemours</h3>
+                <span class="text-sm text-teal-700">Débutant / intermédiaire</span>
                 <ul class="mt-3 space-y-1 text-gray-700">
                   <li>Jeudi — 10h00–11h30</li>
                 </ul>
@@ -112,10 +119,8 @@
                 <NuxtImg src="/images/lulu-om-nobg.png" alt="Le Vaudoué" class="w-full h-full object-contain" />
               </div>
               <div class="flex-1">
-                <div class="flex flex-col sm:flex-row sm:items-baseline sm:justify-between gap-2">
-                  <h3 class="text-2xl font-light text-gray-900">Le Vaudoué</h3>
-                  <span class="text-sm text-teal-700">Débutant / intermédiaire</span>
-                </div>
+                <h3 class="text-2xl font-light text-gray-900">Le Vaudoué</h3>
+                <span class="text-sm text-teal-700">Débutant / intermédiaire</span>
                 <ul class="mt-3 space-y-1 text-gray-700">
                   <li>Lundi — 19h00–20h30</li>
                 </ul>
@@ -135,7 +140,7 @@
 
 
         <!-- À domicile -->
-        <section class="bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm p-8 space-y-4 relative overflow-hidden">
+        <section class="bg-white/40 rounded-2xl shadow-sm p-6 space-y-4 relative overflow-hidden">
           <h2 class="text-3xl font-light text-gray-900">À domicile</h2>
           <ul class="list-disc pl-5 text-gray-700 space-y-1">
             <li>Cours postural — seul·e ou à plusieurs</li>

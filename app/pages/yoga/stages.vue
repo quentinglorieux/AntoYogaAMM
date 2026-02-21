@@ -1,6 +1,15 @@
 <template>
   <div class="min-h-screen bg-gradient-to-br from-green-50 to-teal-100 relative overflow-hidden">
 
+    <!-- Lulu illustration — grande en arrière-plan -->
+    <div class="absolute inset-0 z-0 pointer-events-none overflow-hidden">
+      <NuxtImg
+        src="/images/lulu-equilibre-nobg.png"
+        alt=""
+        class="absolute top-1/2 left-1/2 h-[110%] w-auto object-contain"
+        style="opacity: 0.11; filter: grayscale(10%) sepia(10%); mix-blend-mode: multiply; transform: translate(-50%, -50%);"
+      />
+    </div>
 
     <div class="max-w-6xl mx-auto px-6 py-16 flex flex-col lg:flex-row gap-10 relative z-10">
       <!-- Image latérale -->
@@ -48,7 +57,7 @@
           </div>
 
           <!-- Stage passé -->
-          <div class="bg-white/50 backdrop-blur-sm rounded-2xl p-6 border border-gray-200 grayscale opacity-50 hover:opacity-80 transition-opacity">
+          <div class="bg-white/30 rounded-2xl p-6 border border-gray-200 grayscale opacity-50 hover:opacity-80 transition-opacity">
             <div class="flex justify-between items-start">
               <div>
                 <div class="inline-block bg-gray-400 text-white text-[10px] font-bold uppercase tracking-widest px-2 py-0.5 rounded mb-3">
@@ -66,7 +75,7 @@
 
         <!-- Autres formules -->
         <div class="space-y-6">
-          <div class="bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm p-8 relative overflow-hidden">
+          <div class="bg-white/40 rounded-2xl shadow-sm p-6 relative overflow-hidden">
             <h2 class="text-2xl font-light text-gray-800 mb-4">Stages semaine</h2>
             <p class="text-gray-600 mb-4">
               Des stages d'une semaine en immersion totale, alliant yoga et montagne.
@@ -78,7 +87,7 @@
             </ul>
           </div>
 
-          <div class="bg-white/80 backdrop-blur-sm rounded-2xl shadow-sm p-8 relative overflow-hidden">
+          <div class="bg-white/40 rounded-2xl shadow-sm p-6 relative overflow-hidden">
             <h2 class="text-2xl font-light text-gray-800 mb-4">Stages à thème</h2>
             <p class="text-gray-600 mb-4">
               Des stages ciblés sur des aspects spécifiques du yoga Iyengar.

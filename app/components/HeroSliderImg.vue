@@ -6,7 +6,7 @@
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'yoga' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('yoga')">
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover object-left" />
-        <div class="absolute inset-0 bg-linear-to-br from-teal-900/15 to-pink-900/15"></div>
+        <div class="absolute inset-0 bg-linear-to-br from-teal-900/30 to-pink-900/20"></div>
 
         <div v-if="activeSection === 'yoga'"
           class="relative z-10 w-full h-full flex flex-col items-center justify-between py-16 px-8 animate-fade-in">
@@ -103,5 +103,12 @@ const setActiveSection = (section: 'yoga' | 'mountain') => {
 
 .animate-fade-in {
   animation: fade-in 500ms ease-out both;
+}
+
+/* Effet dessin — les lulu apparaissent progressivement avec le panel */
+.lulu-bg-img {
+  transition: opacity 0.8s ease-in-out;
+  filter: grayscale(20%) sepia(10%);
+  mix-blend-mode: luminosity;
 }
 </style>

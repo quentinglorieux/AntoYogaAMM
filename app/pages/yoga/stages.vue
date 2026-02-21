@@ -15,31 +15,60 @@
             Des stages de yoga Iyengar pour approfondir votre pratique dans un cadre privilégié.
           </p>
 
-          <div class="mt-12 bg-slate-500 rounded-lg p-6">
-            <div class="text-gray-100">
-              <strong>Prochains stage :</strong>
-              <span> 9-10 Février 2026 <br>
-                Un stage d'un week-end sur le thème des Inversions au Studio de Larchant.</span>
-              <div>
-                Me contacter: <a href="mailto:antonine.rochet@hotmail.fr"
-                  class="text-blue-200 hover:underline">antonine.rochet@hotmail.fr</a>
+          <div class="mt-12 space-y-6">
+            <!-- Stage à venir -->
+            <div class="bg-teal-700 rounded-xl p-8 shadow-lg border-l-4 border-teal-400 relative overflow-hidden group">
+              <div class="relative z-10">
+                <div class="inline-flex items-center gap-1.5 bg-teal-500 text-white text-xs font-bold uppercase tracking-widest px-2.5 py-1 rounded-full mb-4">
+                  <span class="relative flex h-2 w-2">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-teal-100 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+                  </span>
+                  Prochain stage
+                </div>
+                
+                <h3 class="text-3xl font-semibold text-white mb-2">11 et 12 avril 2026</h3>
+                <p class="text-teal-50 text-lg mb-6 leading-relaxed">
+                  Un week-end au Studio de Larchant pour approfondir votre pratique.<br>
+                  <span class="font-medium bg-teal-800/50 px-2 py-0.5 rounded italic">Horaires : 9h30–12h30 & 15h00–17h00</span>
+                </p>
+                
+                <div class="flex flex-col sm:flex-row items-center gap-4 pt-2">
+                  <UButton to="mailto:antonine.rochet@hotmail.fr" icon="i-heroicons-envelope" color="neutral" variant="solid" size="lg">
+                    Réserver ma place
+                  </UButton>
+                  <span class="text-teal-100 text-sm">
+                    ou contactez-moi : <a href="mailto:antonine.rochet@hotmail.fr" class="underline hover:text-white">antonine.rochet@hotmail.fr</a>
+                  </span>
+                </div>
               </div>
+              <!-- Décoration en arrière-plan -->
+              <div class="absolute -right-8 -bottom-8 opacity-10 group-hover:scale-110 transition-transform duration-500">
+                <NuxtImg src="/images/pose1.png" class="w-48 h-48 object-contain brightness-0 invert" />
+              </div>
+            </div>
 
+            <!-- Stage passé -->
+            <div class="bg-white/50 backdrop-blur-sm rounded-xl p-6 border border-gray-200 grayscale opacity-50 hover:opacity-80 transition-opacity">
+              <div class="flex justify-between items-start">
+                <div>
+                  <div class="inline-block bg-gray-400 text-white text-[10px] font-bold uppercase tracking-widest px-2 py-0.5 rounded mb-3">
+                    Stage précédent
+                  </div>
+                  <h3 class="text-xl font-medium text-gray-700 mb-1">9-10 Février 2026</h3>
+                  <p class="text-gray-500">
+                    Thème : Les Inversions — Studio de Larchant
+                  </p>
+                </div>
+                <div class="hidden sm:block opacity-20">
+                  <NuxtImg src="/images/pose3.png" class="w-16 h-16 object-contain" />
+                </div>
+              </div>
             </div>
           </div>
 
           <div class="space-y-6 mt-12">
-            <div class="bg-white rounded-lg shadow-sm p-8">
-              <h2 class="text-2xl font-light text-gray-800 mb-4">Stages week-end</h2>
-              <p class="text-gray-600 mb-4">
-                Des week-ends intensifs de pratique pour explorer en profondeur les postures et le pranayama.
-              </p>
-              <ul class="space-y-2 text-gray-600">
-                <li>• Durée : 2 jours</li>
-                <li>• Horaires : Samedi et dimanche 9h-12h / 14h-17h</li>
-                <li>• Tarif : 10€ / heure de cours</li>
-              </ul>
-            </div>
+
 
             <div class="bg-white rounded-lg shadow-sm p-8">
               <h2 class="text-2xl font-light text-gray-800 mb-4">Stages semaine</h2>

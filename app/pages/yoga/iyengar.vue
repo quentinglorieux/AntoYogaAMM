@@ -45,7 +45,7 @@
            dire de plus pour laisser chacun et chacune libre de sillonner.
           </p>
           <blockquote class="border-l-4 border-orange-500 pl-6 py-4 italic text-stone-800 bg-white/60 rounded-r">
-            La direction du coccyx, le placement du regard, le mouvement de la peau, le relâchement de la langue : des actions et des contre-actions d'une infinie subtilité pour trouver
+            La direction du coccyx, le placement du regard, le mouvement de la peau, le relâchement de la langue : des actions et des contre-actions de plus en plus subtiles pour trouver
             le centre et s'y reposer. B.K.S Iyengar a apporté sa pierre à l'édifice en enrichissant la pratique posturale de supports et de nombreuses indications qui se sont transmises de mentors à élèves.
             Il a ainsi ouvert la pratique à tous les corps, sans discrimination,
             pour pouvoir transmettre le yoga au plus grand nombre et aussi graduellement que faire se peut.
@@ -61,7 +61,7 @@
 
           </p>
           <p class="mb-4">
-            bla
+            Des cours débutants aux plus avancés, d'une heure par semaine à une vie consacrée, retrouvons-nous sur le tapis pour pratiquer.
           </p>
         </section>
 

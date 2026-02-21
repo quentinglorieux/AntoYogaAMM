@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-linear-to-br from-blue-50 to-green-50">
+  <div class="min-h-screen bg-linear-to-br from-blue-50 to-stone-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
       <div class="text-center mb-16">
         <h1 class="text-5xl font-light text-gray-900 mb-4">Les Sorties en Montagne</h1>

@@ -6,13 +6,23 @@
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'yoga' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('yoga')">
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover object-left" />
-        <div class="absolute inset-0 bg-linear-to-br from-teal-900/30 to-pink-900/20"></div>
+        <div class="absolute inset-0 bg-linear-to-br from-orange-900/30 to-pink-900/20"></div>
 
         <div v-if="activeSection === 'yoga'"
-          class="relative z-10 w-full h-full flex flex-col items-center justify-between py-16 px-8 animate-fade-in">
+          class="relative z-10 w-full h-full flex flex-col items-center justify-between py-8 sm:py-16 px-6 sm:px-8 animate-fade-in">
+          
           <div></div>
+
           <div class="text-center space-y-6">
-            <h1 class="text-7xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
+            <div class="relative inline-block">
+              <!-- Logo AFYI placé derrière le titre en haut à droite -->
+              <NuxtImg 
+                src="/images/logoafyi.png" 
+                alt="Logo AFYI" 
+                class="absolute -top-24 -right-24 sm:-top-32 sm:-right-40 h-48 sm:h-72 w-auto object-contain z-0 pointer-events-none" 
+              />
+              <h1 class="relative z-10 text-7xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
+            </div>
             <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
               Découvrez la pratique du yoga Iyengar avec Antonine Rochet
             </p>
@@ -26,7 +36,7 @@
             </div>
           </div>
           <div class="inline-block bg-white/60 rounded-lg px-4 py-1 shadow">
-            <p class="text-xl text-teal-900 font-medium">
+            <p class="text-xl text-orange-900 font-medium">
               Larchant, Le Vaudoué, Nemours
             </p>
           </div>
@@ -41,7 +51,7 @@
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'mountain' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('mountain')">
         <NuxtImg src="/images/mountain4.jpeg" alt="Montagne" class="absolute inset-0 w-full h-full object-cover" />
-        <div class="absolute inset-0 bg-linear-to-br from-blue-900/15 to-green-900/15"></div>
+        <div class="absolute inset-0 bg-linear-to-br from-stone-800/15 to-stone-900/15"></div>
 
         <div v-if="activeSection === 'mountain'"
           class="relative z-10 w-full h-full flex flex-col items-center justify-between py-16 px-8 animate-fade-in">
@@ -62,7 +72,7 @@
             </div>
           </div>
           <div class="inline-block bg-white/60 rounded-lg px-4 py-1 shadow">
-            <p class="text-xl text-teal-900 font-medium">
+            <p class="text-xl text-orange-900 font-medium">
               Fontainebleau, Jura, Vosges, Massif Central, Belledonne
             </p>
           </div>

@@ -1,7 +1,7 @@
 <template>
   <div class="my-10 overflow-hidden bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-4">
-      <h3 class="text-teal-900 text-xl font-light tracking-wide italic">L'album du chantier</h3>
+      <h3 class="text-orange-900 text-xl font-light tracking-wide italic">L'album du chantier</h3>
     </div>
 
     <UScrollArea

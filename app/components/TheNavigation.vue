@@ -23,7 +23,7 @@
 
             <!-- Switcher Montagne -> Yoga -->
             <NuxtLink v-if="isMountainSection" to="/yoga/studio"
-              class="text-gray-600 hover:text-teal-600 transition-colors flex items-center gap-1.5 px-2 py-1 rounded-lg hover:bg-teal-50"
+              class="text-gray-600 hover:text-orange-600 transition-colors flex items-center gap-1.5 px-2 py-1 rounded-lg hover:bg-orange-50"
               title="Aller vers la section Yoga">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
                 <path
@@ -38,28 +38,28 @@
 
         <!-- Navigation Yoga Desktop -->
         <div v-if="isYogaSection" class="hidden md:flex items-center space-x-6">
-          <NuxtLink to="/yoga/studio" class="text-gray-600 hover:text-teal-600 transition-colors"
-            active-class="text-teal-600 font-medium">
+          <NuxtLink to="/yoga/studio" class="text-gray-600 hover:text-orange-600 transition-colors"
+            active-class="text-orange-600 font-medium">
             Le Studio
           </NuxtLink>
-          <NuxtLink to="/yoga/cours" class="text-gray-600 hover:text-teal-600 transition-colors"
-            active-class="text-teal-600 font-medium">
+          <NuxtLink to="/yoga/cours" class="text-gray-600 hover:text-orange-600 transition-colors"
+            active-class="text-orange-600 font-medium">
             Les Cours
           </NuxtLink>
-          <NuxtLink to="/yoga/iyengar" class="text-gray-600 hover:text-teal-600 transition-colors"
-            active-class="text-teal-600 font-medium">
+          <NuxtLink to="/yoga/iyengar" class="text-gray-600 hover:text-orange-600 transition-colors"
+            active-class="text-orange-600 font-medium">
             Le Yoga Iyengar
           </NuxtLink>
-          <NuxtLink to="/yoga/enseignante" class="text-gray-600 hover:text-teal-600 transition-colors"
-            active-class="text-teal-600 font-medium">
+          <NuxtLink to="/yoga/enseignante" class="text-gray-600 hover:text-orange-600 transition-colors"
+            active-class="text-orange-600 font-medium">
             L'Enseignante
           </NuxtLink>
-          <NuxtLink to="/yoga/stages" class="text-gray-600 hover:text-teal-600 transition-colors"
-            active-class="text-teal-600 font-medium">
+          <NuxtLink to="/yoga/stages" class="text-gray-600 hover:text-orange-600 transition-colors"
+            active-class="text-orange-600 font-medium">
             Les Stages
           </NuxtLink>
-          <NuxtLink to="/blog" class="text-gray-600 hover:text-teal-600 transition-colors"
-            active-class="text-teal-600 font-medium">
+          <NuxtLink to="/blog" class="text-gray-600 hover:text-orange-600 transition-colors"
+            active-class="text-orange-600 font-medium">
             Le Blog
           </NuxtLink>
         </div>
@@ -111,31 +111,31 @@
             <!-- Mobile Links Yoga -->
             <div v-if="isYogaSection" class="flex flex-col space-y-6 text-center">
               <NuxtLink to="/yoga/studio"
-                class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
-                active-class="text-teal-600 font-medium" @click="isOpen = false">
+                class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
+                active-class="text-orange-600 font-medium" @click="isOpen = false">
                 Le Studio
               </NuxtLink>
-              <NuxtLink to="/yoga/cours" class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
-                active-class="text-teal-600 font-medium" @click="isOpen = false">
+              <NuxtLink to="/yoga/cours" class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
+                active-class="text-orange-600 font-medium" @click="isOpen = false">
                 Les Cours
               </NuxtLink>
               <NuxtLink to="/yoga/iyengar"
-                class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
-                active-class="text-teal-600 font-medium" @click="isOpen = false">
+                class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
+                active-class="text-orange-600 font-medium" @click="isOpen = false">
                 Le Yoga Iyengar
               </NuxtLink>
               <NuxtLink to="/yoga/enseignante"
-                class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
-                active-class="text-teal-600 font-medium" @click="isOpen = false">
+                class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
+                active-class="text-orange-600 font-medium" @click="isOpen = false">
                 L'Enseignante
               </NuxtLink>
               <NuxtLink to="/yoga/stages"
-                class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
-                active-class="text-teal-600 font-medium" @click="isOpen = false">
+                class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
+                active-class="text-orange-600 font-medium" @click="isOpen = false">
                 Les Stages
               </NuxtLink>
-              <NuxtLink to="/blog" class="text-2xl font-light text-gray-800 hover:text-teal-600 transition-colors"
-                active-class="text-teal-600 font-medium" @click="isOpen = false">
+              <NuxtLink to="/blog" class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
+                active-class="text-orange-600 font-medium" @click="isOpen = false">
                 Le Blog
               </NuxtLink>
             </div>
@@ -178,7 +178,7 @@
               </NuxtLink>
 
               <NuxtLink v-if="isMountainSection" to="/yoga/studio"
-                class="inline-flex items-center gap-2 text-lg text-gray-500 hover:text-teal-600 transition-colors py-2 px-4 rounded-xl hover:bg-teal-50"
+                class="inline-flex items-center gap-2 text-lg text-gray-500 hover:text-orange-600 transition-colors py-2 px-4 rounded-xl hover:bg-orange-50"
                 @click="isOpen = false">
                 <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
                   <path
@@ -206,11 +206,11 @@ watch(() => route.path, () => {
   isOpen.value = false
 })
 
-const isYogaSection = computed(() => {
-  return route.path.startsWith('/yoga')
-})
-
 const isMountainSection = computed(() => {
   return route.path.startsWith('/mountain')
+})
+
+const isYogaSection = computed(() => {
+  return !isMountainSection.value
 })
 </script>

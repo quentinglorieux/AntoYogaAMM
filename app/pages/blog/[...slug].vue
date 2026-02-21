@@ -2,8 +2,8 @@
     <div class="py-12 bg-white min-h-screen">
         <article v-if="post" class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="mb-8 text-center">
-                <h1 class="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">{{ post.title }}</h1>
-                <p v-if="post.date" class="text-gray-500">{{ new Date(post.date).toLocaleDateString('fr-FR', {
+                <h1 class="text-3xl sm:text-4xl font-bold text-stone-900 mb-4">{{ post.title }}</h1>
+                <p v-if="post.date" class="text-stone-600">{{ new Date(post.date).toLocaleDateString('fr-FR', {
                     year:
                         'numeric', month: 'long', day: 'numeric'
                 }) }}</p>
@@ -13,19 +13,19 @@
                 <img :src="post.image" :alt="post.title" class="w-full h-auto object-cover max-h-[500px]" />
             </div>
 
-            <div class="prose prose-lg prose-teal prose-headings:text-teal-700 mx-auto">
+            <div class="prose prose-lg prose-stone prose-headings:text-orange-700 prose-p:text-stone-800 prose-li:text-stone-800 prose-strong:text-stone-900 mx-auto">
                 <ContentRenderer :value="post" />
             </div>
 
-            <div class="mt-12 pt-8 border-t border-gray-200">
-                <NuxtLink to="/blog" class="text-teal-600 hover:text-teal-800 font-medium flex items-center gap-2">
+            <div class="mt-12 pt-8 border-t border-stone-200">
+                <NuxtLink to="/blog" class="text-orange-600 hover:text-orange-800 font-medium flex items-center gap-2">
                     &larr; Retour au blog
                 </NuxtLink>
             </div>
         </article>
         <div v-else class="text-center py-12">
             <p>Article non trouvé</p>
-            <NuxtLink to="/blog" class="text-teal-600 mt-4 inline-block">Retour au blog</NuxtLink>
+            <NuxtLink to="/blog" class="text-orange-600 mt-4 inline-block">Retour au blog</NuxtLink>
         </div>
     </div>
 </template>

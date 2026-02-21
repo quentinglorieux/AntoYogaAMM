@@ -30,8 +30,8 @@
               <h3 class="text-2xl font-light text-gray-900 mb-3">Lundi</h3>
               <div class="space-y-4">
                 <div class="flex items-start gap-4">
-                  <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                    <NuxtImg src="/images/pose3.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
+                  <div class="w-20 h-20 shrink-0">
+                    <NuxtImg src="/images/lulu-om-nobg.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
                   </div>
                   <div class="flex-1">
                     <p class="text-lg font-medium text-gray-900">10h45–12h00</p>
@@ -39,8 +39,8 @@
                   </div>
                 </div>
                 <div class="flex items-start gap-4">
-                  <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                    <NuxtImg src="/images/pose1.png" alt="Pratique intermédiaire / avancé" class="w-full h-full object-contain" />
+                  <div class="w-20 h-20 shrink-0">
+                    <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="Pratique intermédiaire / avancé" class="w-full h-full object-contain" />
                   </div>
                   <div class="flex-1">
                     <p class="text-lg font-medium text-gray-900">12h30–14h00</p>
@@ -56,8 +56,8 @@
               <h3 class="text-2xl font-light text-gray-900 mb-3">Mardi</h3>
               <div class="space-y-4">
                 <div class="flex items-start gap-4">
-                  <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                    <NuxtImg src="/images/pose3.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
+                  <div class="w-20 h-20 shrink-0">
+                    <NuxtImg src="/images/lulu-om-nobg.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
                   </div>
                   <div class="flex-1">
                     <p class="text-lg font-medium text-gray-900">18h30–20h00</p>
@@ -65,8 +65,8 @@
                   </div>
                 </div>
                 <div class="flex items-start gap-4">
-                  <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                    <NuxtImg src="/images/pose2.png" alt="Yoga doux" class="w-full h-full object-contain" />
+                  <div class="w-20 h-20 shrink-0">
+                    <NuxtImg src="/images/lulu-brique-nobg.png" alt="Yoga doux" class="w-full h-full object-contain" />
                   </div>
                   <div class="flex-1">
                     <p class="text-lg font-medium text-gray-900">20h00–21h00</p>
@@ -80,8 +80,8 @@
             <div class="border-l-4 border-teal-400 pl-4">
               <h3 class="text-2xl font-light text-gray-900 mb-3">Mercredi</h3>
               <div class="flex items-start gap-4">
-                <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                  <NuxtImg src="/images/pose1.png" alt="Pratique intermédiaire / avancé" class="w-full h-full object-contain" />
+                <div class="w-20 h-20 shrink-0">
+                  <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="Pratique intermédiaire / avancé" class="w-full h-full object-contain" />
                 </div>
                 <div class="flex-1">
                   <p class="text-lg font-medium text-gray-900">18h30–20h00</p>
@@ -96,8 +96,8 @@
               <h3 class="text-2xl font-light text-gray-900 mb-3">Jeudi</h3>
               <div class="space-y-4">
                 <div class="flex items-start gap-4">
-                  <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                    <NuxtImg src="/images/pose2.png" alt="Yoga doux" class="w-full h-full object-contain" />
+                  <div class="w-20 h-20 shrink-0">
+                    <NuxtImg src="/images/lulu-brique-nobg.png" alt="Yoga doux" class="w-full h-full object-contain" />
                   </div>
                   <div class="flex-1">
                     <p class="text-lg font-medium text-gray-900">12h30–13h30</p>
@@ -105,8 +105,8 @@
                   </div>
                 </div>
                 <div class="flex items-start gap-4">
-                  <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                    <NuxtImg src="/images/pose3.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
+                  <div class="w-20 h-20 shrink-0">
+                    <NuxtImg src="/images/lulu-om-nobg.png" alt="Pratique débutant / intermédiaire" class="w-full h-full object-contain" />
                   </div>
                   <div class="flex-1">
                     <p class="text-lg font-medium text-gray-900">18h30–20h00</p>
@@ -120,8 +120,8 @@
             <div class="border-l-4 border-teal-400 pl-4">
               <h3 class="text-2xl font-light text-gray-900 mb-3">Vendredi</h3>
               <div class="flex items-start gap-4">
-                <div class="w-20 h-20 rounded-lg overflow-hidden ring-1 ring-black/5 shrink-0 bg-white p-2">
-                  <NuxtImg src="/images/pose4.png" alt="Yoga adapté" class="w-full h-full object-contain" />
+                <div class="w-20 h-20 shrink-0">
+                  <NuxtImg src="/images/lulu-corde-nobg.png" alt="Yoga adapté" class="w-full h-full object-contain" />
                 </div>
                 <div class="flex-1">
                   <p class="text-lg font-medium text-gray-900">12h00–13h00</p>

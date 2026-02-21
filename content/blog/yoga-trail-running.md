@@ -1,7 +1,7 @@
 ---
 title: "Yoga et Trail Running : Performance et Récupération sur les sentiers"
 description: "Optimisez vos performances en Trail et course à pied grâce au Yoga. Idéal pour la récupération après le circuit des 25 bosses ou une longue sortie en forêt de Fontainebleau."
-image: "/images/blog/yoga-trail.jpg"
+image: "/images/blog/yoga-escalade.jpg"
 date: 2024-07-10
 head:
   meta:

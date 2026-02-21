@@ -1,7 +1,7 @@
 ---
 title: "Yoga Prénatal et Méthode De Gasquet : Une Grossesse en Douceur"
 description: "Accompagnez votre grossesse avec le Yoga Prénatal selon la méthode De Gasquet. Protégez votre dos et votre périnée, et préparez vous sereinement à l'accouchement."
-image: "/images/blog/yoga-prenatal.jpg"
+image: "/images/blog/yoga-escalade.jpg"
 date: 2024-06-15
 head:
   meta:

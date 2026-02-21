@@ -23,7 +23,7 @@
           <div class="bg-white shadow-sm rounded-2xl p-6 border border-stone-200/60">
             <h2 class="text-3xl font-light text-stone-950 mb-6">Antonine Rochet</h2>
             <p class="text-xl text-stone-800 leading-relaxed mb-6">
-              Professeure certifiée de yoga Iyengar et accompagnatrice en montagne.
+              Professeure certifiée de yoga Iyengar niveau 1
             </p>
           </div>
 
@@ -46,26 +46,43 @@
 
         <h2 class="text-3xl font-light text-stone-950 mt-12 mb-6">Formation</h2>
         <p class="text-stone-800 leading-relaxed mb-4">
-          Antonine a découvert le yoga Iyengar il y a plus de 15 ans et s'est formée auprès des 
-          meilleurs enseignants en France et en Inde.
+          Antonine a découvert le yoga Iyengar en 2016. Danseuse classique depuis ses 5 ans, dès ses premiers cours de yoga Iyengar elle se passionne pour la 
+          précision des alignements et la rigueur de cette pratique. D'une discipline du spectacle et de la représentation à une écoute des ressentis intérieurs, le yoga la transforme
+          et la libère de nombreux maux avec lesquels elle s'était alors résolu à vivre. Elle continue aujourd'hui sur la voix du yoga, continuant à se questionner et à vagabonder dans une pratique
+          riche de trésors.
         </p>
         <ul class="space-y-2 text-stone-800 mb-6">
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>Certificat d'enseignement du yoga Iyengar</span>
+            <span>2016-2024 : élève de Daniele Navelo</span>
+          </li>
+          <ul class="space-y-2 text-stone-800 mb-6">
+          <li class="flex items-start">
+            <span class="text-orange-600 mr-2">•</span>
+            <span>2022 : obtention du Certificat de yoga pré/post-natal de la Méthode De Gasquet</span>
+          </li>
+        <ul class="space-y-2 text-stone-800 mb-6">
+          <li class="flex items-start">
+            <span class="text-orange-600 mr-2">•</span>
+            <span>2024 : obtention du Certificat d'enseignement du yoga Iyengar niveau 1</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>Formation continue auprès de professeurs seniors</span>
+            <span>2024-aujourd'hui : élève de Noa Marchand</span>
+          </li>
+          <li class="flex items-start">
+            <span class="text-orange-600 mr-2">•</span>
+            <span>À suivi des stages avec : Lydie Drivière, David Meloni, Christian Pisano et Daniele Navelo</span>
           </li>
   
         </ul>
 
         <h2 class="text-3xl font-light text-stone-950 mt-12 mb-6">Parcours</h2>
         <p class="text-stone-800 leading-relaxed">
-          Passionnée par la montagne et le yoga, Antonine a à cœur de transmettre ces deux pratiques 
-          qui se complètent merveilleusement. L'attention, la présence et le respect de son corps 
-          développés dans la pratique du yoga sont des qualités essentielles en montagne.
+          Que tout ne fasse plus qu'un. Comment apprendre du yoga pour vivre mieux au quotidien, faire
+          face à ses limites et embrasser sa nudité, puiser sa force dans de nouveaux espaces découverts, se reposer dans d'autres,
+          laisser monter à ébullition ce qui est parfois caché, 
+          s'abandonner avec confiance, se lancer à corps perdu dans les luttes internes et externes et rester enraciné.
         </p>
       </div>
     </div>

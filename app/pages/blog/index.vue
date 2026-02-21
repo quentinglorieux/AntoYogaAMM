@@ -2,8 +2,8 @@
     <div class="py-12 bg-stone-50 min-h-screen">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center mb-12">
-                <h1 class="text-3xl font-light text-stone-950 sm:text-4xl">Le Blog</h1>
-                <p class="mt-4 text-lg text-stone-700">Articles, conseils et actualités autour du Yoga et de la Montagne
+                <h1 class="text-3xl font-light text-black sm:text-4xl">Le Blog</h1>
+                <p class="mt-4 text-lg text-black">Articles, conseils et actualités autour du Yoga et de la Montagne
                 </p>
             </div>
 
@@ -38,10 +38,10 @@
                                         'numeric', month: 'long', day: 'numeric'
                                 }) }}</span>
                             </p>
-                            <h3 class="text-xl font-semibold text-stone-900 group-hover:text-orange-600 transition-colors">
+                            <h3 class="text-xl font-semibold text-black group-hover:text-orange-600 transition-colors">
                                 {{ article.title }}
                             </h3>
-                            <p class="mt-3 text-base text-stone-700 line-clamp-3">
+                            <p class="mt-3 text-base text-black line-clamp-3">
                                 {{ article.description }}
                             </p>
                         </div>

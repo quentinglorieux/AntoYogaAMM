@@ -55,7 +55,10 @@
         <section class="bg-white/90 backdrop-blur-sm shadow-sm rounded-2xl p-8 border border-stone-200/60 relative overflow-hidden">
           <h2 class="text-3xl font-light text-stone-950 mb-4">La méditation dans l'action</h2>
           <p class="mb-4">
-            De mentor à élève, depuis B.K.S Iyengar 
+            L'apprentissage des postures dévoile assez vite ses richesse : il nous amuse, nous apporte un mieux-être physique ou encore nous repose mentalement. Et le yoga pourra n'être que ça pour nombre d'entre nous, une respiration dans le tourbillon de la vie, et c'est très bien! Puis peut-être 
+            qu'il y aura autre chose : un corps qui semble parfois se stabiliser, un mental qui trouve des moments d'accalmie, un silence qui s'installe brièvement, un nouvel espace à explorer, infini.
+          
+
           </p>
           <p class="mb-4">
             bla

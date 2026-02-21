@@ -12,10 +12,10 @@
     </div>
 
     <div class="max-w-6xl mx-auto px-6 py-16 relative z-10">
-      <h1 class="text-5xl font-light text-gray-800 mb-10">Le Yoga Iyengar</h1>
+      <h1 class="text-5xl font-light text-gray-800 mb-4">Le Yoga Iyengar</h1>
 
       <!-- Composition lignée de transmission -->
-      <div class="mb-12 -mx-6 relative overflow-hidden" style="height: 54vw;">
+      <div class="mb-4 -mx-6 relative overflow-hidden" style="height: 42vw;">
 
           <!-- Iyengar — à gauche -->
           <div class="absolute left-0 bottom-0 overflow-hidden z-10 hover:z-40 hover:scale-105 transition-all duration-300"

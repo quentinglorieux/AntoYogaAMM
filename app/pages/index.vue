@@ -10,13 +10,13 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Antonine Rochet - Yoga Iyengar & Accompagnatrice en Montagne | Fontainebleau, Larchant, Nemours',
-  description: 'Cours de yoga Iyengar à Larchant, La Chapelle-la-Reine, Nemours, Le Vaudoué et Fontainebleau. Randonnées et sorties montagne en Seine-et-Marne, Jura, Vosges et Massif Central avec accompagnatrice diplômée.',
+  title: 'Antonine Rochet - Yoga Iyengar & Accompagnatrice en Montagne | Larchant, Le Vaudoué, Nemours',
+  description: 'Cours de yoga Iyengar à Larchant, Nemours et Le Vaudoué. Randonnées et sorties montagne avec accompagnatrice diplômée en Seine-et-Marne et massifs français.',
   ogTitle: 'Antonine Rochet - Yoga Iyengar & Accompagnatrice en Montagne',
-  ogDescription: 'Professeure de yoga Iyengar et accompagnatrice en montagne diplômée. Cours de yoga et randonnées guidées en Seine-et-Marne et dans les massifs français.',
+  ogDescription: 'Professeure de yoga Iyengar et accompagnatrice en montagne diplômée. Cours de yoga et randonnées guidées.',
   ogImage: '/images/anto4.jpg',
   ogType: 'website',
   twitterCard: 'summary_large_image',
-  keywords: 'yoga Larchant, yoga Fontainebleau, yoga Iyengar Seine-et-Marne, cours yoga Nemours, yoga La Chapelle-la-Reine, yoga Le Vaudoué, accompagnatrice montagne, randonnée Fontainebleau, trail Seine-et-Marne, sorties montagne, randonnée Jura, randonnée Vosges, yoga 77, stage yoga, yoga débutant, accompagnement montagne, guide montagne, randonnée guidée, trek France, 25 bosses, yoga grimpe, yoga trail, yoga escalade, rando yoga'
+  keywords: 'yoga Larchant, yoga Iyengar Seine-et-Marne, cours yoga Nemours, yoga Le Vaudoué, accompagnatrice montagne, randonnée Fontainebleau, trail Seine-et-Marne, sorties montagne, yoga 77, stage yoga, yoga débutant'
 })
 </script>

@@ -27,7 +27,7 @@
           </div>
           <div class="inline-block bg-white/60 rounded-lg px-4 py-1 shadow">
             <p class="text-xl text-teal-900 font-medium">
-              Larchant, La Chapelle-la-Reine, Nemours, Le Vaudoué, Fontainebleau
+              Larchant, Le Vaudoué, Nemours
             </p>
           </div>
         </div>

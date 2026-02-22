@@ -58,8 +58,9 @@
         <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
           <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Un esprit associatif</h2>
           <p>
-            Les cours de yoga y sont dispensés par Antonine via l'association Larchant Animation. Plus de quarante ans d'engagement bénévole dans le village! Venez découvrir leurs autres activités, des conférences, de nombreux évènements ou encore la
-            bibliothèque de l'association sur leur site <a href="https://larchantanimation.fr/" target="_blank" class="text-orange-600 hover:text-orange-700 underline">ici</a>.
+            Les cours de yoga y sont dispensés par Antonine via l'association Larchant Animation. Cette association, forte de ses nombreux bénévoles et de ses 40 ans d'existence,
+            propose d'autres activités, des conférences, de nombreux évènements (trail, vélo, concerts, etc.) ou encore la
+            bibliothèque de l'association. Visitez leur site <a href="https://larchantanimation.fr/" target="_blank" class="text-orange-600 hover:text-orange-700 underline">ici</a>.
           </p>
         </section>
 

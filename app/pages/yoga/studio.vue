@@ -50,16 +50,16 @@
       <div class="space-y-10 text-stone-800 leading-relaxed">
         <div class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
           <p class="text-lg italic text-stone-900">
-            Le studio de yoga est un espace dédié à la pratique du yoga Iyengar, situé au cœur de Larchant dans un cadre paisible et lumineux. 
+            Situé au cœur de Larchant, le studio est un espace paisible et chaleureux, dédié à la pratique du yoga Iyengar. Pour vous accueillir dans les meilleures conditions, il est entièrement équipé : 
+            tapis, briques, sangles, couvertures, chaises et cordes murales.
           </p>
         </div>
 
         <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
-          <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Un espace de pratique</h2>
+          <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Un esprit associatif</h2>
           <p>
-            Le studio est entièrement équipé pour vous accueillir dans les meilleures conditions :
-            briques, sangles, couvertures, chaises et **cordes murales** (*Yoga Kurunta*). 
-            Tout le matériel nécessaire à la méthode Iyengar est à votre disposition.
+            Les cours de yoga y sont dispensés par Antonine via l'association Larchant Animation. Plus de quarante ans d'engagement bénévole dans le village! Venez découvrir leurs autres activités, des conférences, de nombreux évènements ou encore la
+            bibliothèque de l'association sur leur site <a href="https://larchantanimation.fr/" target="_blank" class="text-orange-600 hover:text-orange-700 underline">ici</a>.
           </p>
         </section>
 
@@ -200,7 +200,7 @@
                 <strong>16 Place des Tilleuls, 77760 Larchant.</strong>
               </p>
               <p class="text-orange-900 mb-4 italic">
-                Au cœur du village, face à l'église. Entrez sans frapper ! 
+                Au cœur du village, vue sur l'église. Entrez sans frapper ! 
               </p>
               <p class="text-stone-600 text-sm">
                 Des vestiaires et des sanitaires sont à votre disposition pour vous changer sur place.

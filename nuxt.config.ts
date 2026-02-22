@@ -5,6 +5,13 @@ export default defineNuxtConfig({
   modules: ["@nuxt/content", "@nuxt/image", "@nuxt/ui"],
   css: ['~/assets/css/main.css'],
 
+  ui: {
+    colors: {
+      primary: 'red'
+    }
+  },
+
+
   app: {
     head: {
       htmlAttrs: {

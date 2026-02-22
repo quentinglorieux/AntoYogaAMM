@@ -21,7 +21,7 @@
         <h1 class="text-5xl font-light text-stone-950 mb-8">Les Stages</h1>
 
         <p class="text-xl text-stone-800 leading-relaxed mb-12">
-          Des stages de yoga Iyengar pour approfondir votre pratique dans un cadre privilégié.
+          Des stages de yoga Iyengar pour expérimenter la pratique dans la durée.
         </p>
 
         <div class="space-y-6">
@@ -40,6 +40,7 @@
               <p class="text-stone-900 text-lg mb-6 leading-relaxed">
                 Un week-end au Studio de Larchant pour approfondir votre pratique.<br>
                 <span class="font-medium bg-stone-100 text-orange-900 px-2 py-0.5 rounded italic">Horaires : 9h30–12h30 & 15h00–17h00</span>
+                <span class="font-medium bg-stone-100 text-stone-900 px-2 py-0.5 rounded italic">Tarif : 100€</span>
               </p>
 
               <div class="flex flex-col sm:flex-row items-center gap-4 pt-2">
@@ -54,7 +55,7 @@
           </div>
 
           <!-- Stage passé -->
-          <div class="bg-white/50 rounded-2xl p-6 border border-stone-200/60 grayscale opacity-50 hover:opacity-80 transition-opacity">
+          <div class="bg-white/50 rounded-2xl p-6 border border-stone-200/60 grayscale opacity-50 hover:opacity-80 transition-opacity mb-12">
             <div class="flex justify-between items-start">
               <div>
                 <div class="inline-block bg-stone-300 text-white text-[10px] font-bold uppercase tracking-widest px-2 py-0.5 rounded mb-3">
@@ -73,27 +74,28 @@
         <!-- Autres formules -->
         <div class="space-y-6">
           <div class="bg-white shadow-sm rounded-2xl p-6 border border-stone-200/60 relative overflow-hidden">
-            <h2 class="text-2xl font-light text-stone-950 mb-4">Stages semaine</h2>
+            <h2 class="text-2xl font-bold text-stone-950 mb-4">Stages semaine</h2>
             <p class="text-stone-800 mb-4">
-              Des stages d'une semaine en immersion totale, alliant yoga et montagne.
+              Cinq jours, cela laisse le temps d'installer une atmosphère propice à la pratique et d'ouvrir le corps avant de l'amener à des postures plus avancées.
             </p>
             <ul class="space-y-2 text-stone-800">
               <li>• Durée : 5 jours</li>
-              <li>• Programme : Yoga le matin, randonnée l'après-midi</li>
-              <li>• Tarif : sur demande</li>
+              <li>• Programme : 3h de pratique activele matin et 2h de restauratif l'après-midi</li>
+              <li>• Tarif : 300€</li>
+              <li>• Niveau : un an de pratique Iyengar minimum ou 3 ans d'un autre yoga</li>
             </ul>
           </div>
 
           <div class="bg-white shadow-sm rounded-2xl p-6 border border-stone-200/60 relative overflow-hidden">
-            <h2 class="text-2xl font-light text-stone-950 mb-4">Stages à thème</h2>
+            <h2 class="text-2xl font-bold text-stone-950 mb-4">Stages weekend</h2>
             <p class="text-stone-800 mb-4">
-              Des stages ciblés sur des aspects spécifiques du yoga Iyengar.
+              Deux jours pour explorer des postures qui demandent un long temps de préparation ainsi que le pranayama.
             </p>
             <ul class="space-y-2 text-stone-800">
-              <li>• Inversions</li>
-              <li>• Extensions arrière</li>
-              <li>• Pranayama</li>
-              <li>• Yoga restauratif</li>
+              <li>• Durée : 2 jours</li>
+              <li>• Programme : 3h de pratique activele matin et 2h de restauratif l'après-midi</li>
+              <li>• Tarif : 100€</li>
+              <li>• Niveau : un an de pratique du yoga minimum</li>
             </ul>
           </div>
         </div>

@@ -1,14 +1,14 @@
 <template>
   <div class="relative min-h-screen bg-stone-50 overflow-hidden">
     <!-- Background Illustrations -->
-    <div class="fixed inset-0 z-0 pointer-events-none">
+    <!-- <div class="fixed inset-0 z-0 pointer-events-none">
       <NuxtImg
         src="/images/lulu-chaise-nobg.png"
         alt=""
         class="absolute top-1/2 left-1/2 h-full w-auto object-contain"
         style="opacity: 0.4; filter: grayscale(10%) sepia(5%); mix-blend-mode: multiply; transform: translate(-50%, -50%) rotate(3deg);"
       />
-    </div>
+    </div> -->
 
     <div class="relative z-10 max-w-6xl mx-auto px-6 py-16">
       <h1 class="text-5xl font-light text-stone-950 italic mb-10">Le Studio</h1>
@@ -76,7 +76,7 @@
               </h3>
               <div class="space-y-6">
                 <div class="flex items-center gap-4">
-                  <div class="w-14 h-14 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
+                  <div class="w-10 h-10 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
                     <NuxtImg src="/images/lulu-om-nobg.png" alt="" class="w-full h-full object-contain transform scale-150 relative z-10" />
                   </div>
                   <div>
@@ -103,7 +103,7 @@
               </h3>
               <div class="space-y-6">
                 <div class="flex items-center gap-4">
-                  <div class="w-14 h-14 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
+                  <div class="w-10 h-10 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
                     <NuxtImg src="/images/lulu-om-nobg.png" alt="" class="w-full h-full object-contain transform scale-150 relative z-10" />
                   </div>
                   <div>
@@ -155,7 +155,7 @@
                   </div>
                 </div>
                 <div class="flex items-center gap-4">
-                  <div class="w-14 h-14 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
+                  <div class="w-10 h-10 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
                     <NuxtImg src="/images/lulu-om-nobg.png" alt="" class="w-full h-full object-contain transform scale-150 relative z-10" />
                   </div>
                   <div>
@@ -185,7 +185,7 @@
             <!-- Lien Cours Extérieurs -->
             <div class="bg-white rounded-2xl shadow-sm p-6 border border-orange-500/30 flex flex-col justify-center items-center text-center">
               <p class="text-stone-950 font-light italic mb-4">Antonine intervient aussi à Nemours et Le Vaudoué.</p>
-              <UButton to="/yoga/cours" color="primary" variant="solid" size="lg" icon="i-heroicons-calendar">
+              <UButton to="/yoga/cours" color="error" variant="outline" size="lg" icon="i-heroicons-calendar">
                 Voir tous les cours
               </UButton>
             </div>

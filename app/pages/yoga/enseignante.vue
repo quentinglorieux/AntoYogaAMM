@@ -42,7 +42,7 @@
 
       
       
-      <div class="bg-white/90 backdrop-blur-sm shadow-sm rounded-2xl p-8 border border-stone-200/60 prose prose-lg max-w-none">
+      <div class="bg-white/50 backdrop-blur-sm shadow-sm rounded-2xl p-8 border border-stone-200/60 prose prose-lg max-w-none">
 
         <h2 class="text-3xl font-light text-stone-950 mt-12 mb-6">Parcours</h2>
         <p class="text-stone-800 leading-relaxed mb-4">

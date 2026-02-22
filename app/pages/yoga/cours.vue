@@ -25,7 +25,7 @@
               <!-- Trait continu vertical entre les cases, en avant-plan -->
               <div class="absolute left-0 top-0 bottom-0 w-1 bg-orange-400 z-20 rounded-full"></div>
 
-              <div class="bg-white rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
+              <div class="bg-white/50 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
                 <div class="w-16 h-16 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative mt-1">
                   <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="Pratique intermédiaire / avancé"
                     class="w-full h-full object-contain transform scale-150 relative z-10" />
@@ -39,7 +39,7 @@
                 </div>
               </div>
 
-              <div class="bg-white rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
+              <div class="bg-white/50 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
                 <div class="w-16 h-16 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative mt-1">
                   <NuxtImg src="/images/lulu-brique-nobg.png" alt="Yoga doux" class="w-full h-full object-contain transform scale-150 relative z-10" />
                 </div>
@@ -52,7 +52,7 @@
                 </div>
               </div>
 
-              <div class="bg-white rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
+              <div class="bg-white/50 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
                 <div class="w-16 h-16 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative mt-1">
                   <NuxtImg src="/images/lulu-om-nobg.png" alt="Pratique débutant / intermédiaire"
                     class="w-full h-full object-contain transform scale-150 relative z-10" />
@@ -67,7 +67,7 @@
                 </div>
               </div>
 
-              <div class="bg-white rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
+              <div class="bg-white/50 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 flex items-start gap-4 relative z-10">
                 <div class="w-16 h-16 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative mt-1">
                   <NuxtImg src="/images/lulu-corde-nobg.png" alt="Yoga adapté" class="w-full h-full object-contain transform scale-150 relative z-10" />
                 </div>
@@ -92,7 +92,7 @@
               <div class="absolute left-0 top-0 bottom-0 w-1 bg-orange-400 z-20 rounded-full"></div>
 
               <!-- Nemours -->
-              <div class="bg-white rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 relative z-10">
+              <div class="bg-white/50 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 relative z-10">
                 <div class="flex items-start gap-4">
                   <div class="w-16 h-16 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative mt-1">
                     <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="Nemours" class="w-full h-full object-contain transform scale-150 relative z-10" />
@@ -118,7 +118,7 @@
               </div>
 
               <!-- Le Vaudoué -->
-              <div class="bg-white rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 relative z-10">
+              <div class="bg-white/50 backdrop-blur-sm rounded-2xl shadow-xl shadow-stone-200 p-6 border border-stone-100 relative z-10">
                 <div class="flex items-start gap-4">
                   <div class="w-16 h-16 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative mt-1">
                     <NuxtImg src="/images/lulu-om-nobg.png" alt="Le Vaudoué" class="w-full h-full object-contain transform scale-150 relative z-10" />

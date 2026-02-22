@@ -6,7 +6,7 @@
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'yoga' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('yoga')">
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover object-left" />
-        <div class="absolute inset-0 bg-linear-to-br from-orange-900/30 to-pink-900/20"></div>
+        <div class="absolute inset-0 "></div>
 
         <div v-if="activeSection === 'yoga'"
           class="relative z-10 w-full h-full flex flex-col items-center justify-between py-8 sm:py-16 px-6 sm:px-8 animate-fade-in">

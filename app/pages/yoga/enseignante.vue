@@ -23,7 +23,7 @@
           <div class="bg-white shadow-sm rounded-2xl p-6 border border-stone-200/60">
             <h2 class="text-3xl font-light text-stone-950 mb-6">Antonine Rochet</h2>
             <p class="text-xl text-stone-800 leading-relaxed mb-6">
-              Professeure certifiée de Yoga Iyengar Niveau 1
+              Professeure certifiée de Yoga Iyengar® Niveau 1
             </p>
           </div>
 
@@ -46,9 +46,11 @@
 
         <h2 class="text-3xl font-light text-stone-950 mt-12 mb-6">Parcours</h2>
         <p class="text-stone-800 leading-relaxed mb-4">
-          Antonine a découvert le yoga Iyengar en 2016. Danseuse classique depuis ses 5 ans, dès ses premiers cours de yoga Iyengar elle se passionne pour la 
-          précision des alignements et la rigueur de cette pratique. D'une discipline du spectacle et de la représentation à une écoute des ressentis intérieurs, le yoga la transforme
-          et la libère de nombreux maux avec lesquels elle s'était alors résolu à vivre. Elle continue aujourd'hui sur la voix du yoga, continuant à se questionner et à vagabonder dans une pratique
+          Antonine a découvert le yoga Iyengar® en 2016. Danseuse classique depuis ses 5 ans,
+          elle se passionne dès ses premiers cours de yoga Iyengar® pour la 
+          précision des alignements et la rigueur de cette pratique. 
+          L'amenant d'une discipline de la représentation vers une pratique de l'écoute des ressentis, le yoga la transforme
+          et la libère. Elle continue aujourd'hui sur la voie du yoga, continuant à se questionner et à vagabonder dans une pratique
           riche de trésors.
         </p>
         <h2 class="text-3xl font-light text-stone-950 mt-12 mb-6">Formation</h2>
@@ -63,11 +65,11 @@
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>2024 : Obtention du Certificat de Yoga Iyengar Niveau 1</span>
+            <span>2024 : Obtention du Certificat de Yoga Iyengar® Niveau 1</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
-            <span>2024-aujourd'hui : Élève de Noa Marchand</span>
+            <span>2024 à aujourd'hui : Élève de Noa Marchand</span>
           </li>
           <li class="flex items-start">
             <span class="text-orange-600 mr-2">•</span>
@@ -94,7 +96,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Antonine Rochet - Professeure de Yoga Iyengar Certifiée | Fontainebleau',
-  description: 'Antonine Rochet, professeure de yoga Iyengar certifiée et accompagnatrice en montagne diplômée. Formation, expérience et approche pédagogique à Larchant et Fontainebleau.',
-  keywords: 'Antonine Rochet yoga, professeur yoga Iyengar Fontainebleau, enseignante yoga certifiée, prof yoga Larchant, yoga teacher 77, accompagnatrice montagne yoga'
+  description: 'Antonine Rochet, professeure de yoga Iyengar® certifiée et accompagnatrice en montagne diplômée. Formation, expérience et approche pédagogique à Larchant et Fontainebleau.',
+  keywords: 'Antonine Rochet yoga, professeur yoga Iyengar® Fontainebleau, enseignante yoga certifiée, prof yoga Larchant, yoga teacher 77, accompagnatrice montagne yoga'
 })
 </script>

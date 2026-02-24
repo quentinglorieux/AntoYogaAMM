@@ -13,7 +13,7 @@
         <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
           <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
           <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
-            Découvrez la pratique du yoga Iyengar avec Antonine Rochet
+            Découvrez la pratique du yoga Iyengar® avec Antonine Rochet
           </p>
           <div class="flex gap-4 justify-center mt-8">
             <UButton to="/yoga/studio" size="lg" color="primary" variant="solid">
@@ -94,7 +94,7 @@ const setActiveSection = (section: 'yoga' | 'mountain') => {
         <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
           <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
           <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
-            Découvrez la pratique du yoga Iyengar avec Antonine Rochet
+            Découvrez la pratique du yoga Iyengar® avec Antonine Rochet
           </p>
           <div class="flex gap-4 justify-center mt-8">
             <UButton to="/yoga/studio" size="lg" color="primary" variant="solid">
@@ -172,7 +172,7 @@ const setActiveSection = (section: 'yoga' | 'mountain') => {
       <div v-if="activeSection === 'yoga'" class="text-center space-y-6 px-8 animate-fade-in">
         <h1 class="text-6xl font-light text-white">Yoga Iyengar</h1>
         <p class="text-xl text-white opacity-90 max-w-2xl mx-auto">
-          Découvrez la pratique du yoga Iyengar avec Antonine Rochet
+          Découvrez la pratique du yoga Iyengar® avec Antonine Rochet
         </p>
         <div class="flex gap-4 justify-center mt-8">
           <UButton
@@ -258,7 +258,7 @@ const setActiveSection = (section: 'yoga' | 'mountain') => {
           <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
             <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
             <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
-              Découvrez la pratique du yoga Iyengar avec Antonine Rochet
+              Découvrez la pratique du yoga Iyengar® avec Antonine Rochet
             </p>
             <div class="flex gap-4 justify-center mt-8">
               <UButton to="/yoga/studio" size="lg" color="primary" variant="solid">

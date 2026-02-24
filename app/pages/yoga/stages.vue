@@ -21,7 +21,7 @@
         <h1 class="text-5xl font-light text-stone-950 mb-8">Les Stages</h1>
 
         <p class="text-xl text-stone-800 leading-relaxed mb-12">
-          Des stages de yoga Iyengar pour expérimenter la pratique dans la durée.
+          Des stages de yoga Iyengar® pour expérimenter la pratique dans la durée.
         </p>
 
         <div class="space-y-6">
@@ -82,7 +82,7 @@
               <li>• Durée : 5 jours</li>
               <li>• Programme : 3h de pratique activele matin et 2h de restauratif l'après-midi</li>
               <li>• Tarif : 300€</li>
-              <li>• Niveau : un an de pratique Iyengar minimum ou 3 ans d'un autre yoga</li>
+              <li>• Niveau : un an de pratique Iyengar® minimum ou 3 ans d'un autre yoga</li>
             </ul>
           </div>
 
@@ -111,7 +111,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Stages de Yoga Iyengar à Larchant et Fontainebleau | Week-ends & Retraites',
-  description: 'Stages de yoga Iyengar en Seine-et-Marne : week-ends intensifs, retraites, ateliers thématiques. Approfondissez votre pratique à Larchant près de Fontainebleau.',
-  keywords: 'stage yoga Larchant, stage yoga Fontainebleau, retraite yoga 77, week-end yoga Seine-et-Marne, stage yoga Iyengar, atelier yoga, séjour yoga France'
+  description: 'Stages de yoga Iyengar® en Seine-et-Marne : week-ends intensifs, retraites, ateliers thématiques. Approfondissez votre pratique à Larchant près de Fontainebleau.',
+  keywords: 'stage yoga Larchant, stage yoga Fontainebleau, retraite yoga 77, week-end yoga Seine-et-Marne, stage yoga Iyengar®, atelier yoga, séjour yoga France'
 })
 </script>

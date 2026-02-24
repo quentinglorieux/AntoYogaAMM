@@ -30,7 +30,7 @@
         <div class="absolute right-0 top-0 w-[45%] md:w-[40%] h-full shadow-[0_30px_60px_rgba(0,0,0,0.3)] z-30 group overflow-hidden bg-gray-100">
           <NuxtImg 
             src="/images/studio_anto.png" 
-            alt="Pratique de Yoga Iyengar dans le studio" 
+            alt="Pratique de Yoga Iyengar® dans le studio" 
             class="w-full h-full object-cover object-top transform group-hover:scale-[1.03] transition-transform duration-1000"
             style="filter: sepia(0.2) saturate(1.15) contrast(1.1) brightness(1.05);"
           />
@@ -50,7 +50,7 @@
       <div class="space-y-10 text-stone-800 leading-relaxed">
         <div class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
           <p class="text-lg italic text-stone-900">
-            Situé au cœur de Larchant, le studio est un espace paisible et chaleureux, dédié à la pratique du yoga Iyengar. Pour vous accueillir dans les meilleures conditions, il est entièrement équipé : 
+            Situé au cœur de Larchant, le studio est un espace paisible et chaleureux, dédié à la pratique du yoga Iyengar®. Pour vous accueillir dans les meilleures conditions, il est entièrement équipé : 
             tapis, briques, sangles, couvertures, chaises et cordes murales.
           </p>
         </div>
@@ -58,9 +58,10 @@
         <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
           <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Un esprit associatif</h2>
           <p>
-            Les cours de yoga y sont dispensés par Antonine via l'association Larchant Animation. Cette association, forte de ses nombreux bénévoles et de ses 40 ans d'existence,
-            propose d'autres activités, des conférences, de nombreux évènements (trail, vélo, concerts, etc.) ou encore la
-            bibliothèque de l'association. Visitez leur site <a href="https://larchantanimation.fr/" target="_blank" class="text-orange-600 hover:text-orange-700 underline">ici</a>.
+            Les cours de yoga y sont dispensés par Antonine et portés par l'association Larchant Animation, permettant ainsi de maintenir des tarifs abordables pour le plus grand nombre.
+            Cette association, forte de ses nombreux bénévoles et de ses 40 ans d'existence,
+            propose également des activités variées, conférences, évènements (trail, vélo, concerts, projections, etc.) ou encore sa
+            bibliothèque. Visitez leur site <a href="https://larchantanimation.fr/" target="_blank" class="text-orange-600 hover:text-orange-700 underline">ici</a>.
           </p>
         </section>
 
@@ -221,7 +222,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Le Studio de Yoga Iyengar à Larchant | Antonine Rochet',
-  description: 'Studio de yoga Iyengar à Larchant près de Fontainebleau. Cours collectifs et particuliers tous niveaux. Planning des cours à La Chapelle-la-Reine, Nemours et Le Vaudoué. Seine-et-Marne 77.',
-  keywords: 'studio yoga Larchant, yoga Iyengar Fontainebleau, cours yoga Seine-et-Marne, yoga 77, planning cours yoga, yoga Nemours, yoga La Chapelle-la-Reine, studio yoga 77'
+  description: 'Studio de yoga Iyengar® à Larchant près de Fontainebleau. Cours collectifs et particuliers tous niveaux. Planning des cours à La Chapelle-la-Reine, Nemours et Le Vaudoué. Seine-et-Marne 77.',
+  keywords: 'studio yoga Larchant, yoga Iyengar® Fontainebleau, cours yoga Seine-et-Marne, yoga 77, planning cours yoga, yoga Nemours, yoga La Chapelle-la-Reine, studio yoga 77'
 })
 </script>

@@ -1,12 +1,12 @@
 ---
 title: "Retour sur le stage Inversions — 7 et 8 février 2026"
-description: "Un week-end intense et lumineux au studio de Larchant pour explorer les postures inversées du yoga Iyengar. Retour sur deux jours de pratique partagée."
+description: "Un week-end intense et lumineux au studio de Larchant pour explorer les postures inversées du yoga Iyengar®. Retour sur deux jours de pratique partagée."
 image: "/images/blog/stagefev26.webp"
 date: 2026-02-21
 head:
   meta:
     - name: 'keywords'
-      content: 'stage yoga Larchant, inversions yoga Iyengar, compte-rendu stage, yoga février 2026, sirsasana, sarvangasana, Larchant'
+      content: 'stage yoga Larchant, inversions yoga Iyengar®, compte-rendu stage, yoga février 2026, sirsasana, sarvangasana, Larchant'
 ---
 
 # Retour sur le stage Inversions — 7 et 8 février 2026
@@ -15,7 +15,7 @@ Le week-end des **7 et 8 février** a réuni au studio de Larchant un groupe de 
 
 ## Un thème exigeant et libérateur
 
-Les inversions occupent une place particulière dans le yoga Iyengar. Elles demandent de la précision, de l'écoute et beaucoup de courage — et elles rendent, en retour, une clarté et une légèreté difficiles à expliquer autrement qu'en les vivant.
+Les inversions occupent une place particulière dans le yoga Iyengar®. Elles demandent de la précision, de l'écoute et beaucoup de courage — et elles rendent, en retour, une clarté et une légèreté difficiles à expliquer autrement qu'en les vivant.
 
 Ce stage était l'occasion de prendre le temps, loin du rythme hebdomadaire des cours, pour vraiment **comprendre ces postures de l'intérieur** : comment les aborder, comment les préparer, et comment les quitter.
 
@@ -28,7 +28,7 @@ Nous avons commencé par un travail en profondeur sur les postures debout, pour 
 L'après-midi a été consacrée au travail des appuis — mains, nuque, communs — et à l'exploration de *Sarvangasana* (la chandelle) et ses variantes, avec une attention particulière à la protection du cou.
 
 ### Dimanche matin — Vers Sirsasana
-Le dimanche matin a permis d'aborder *Sirsasana* (la posture sur la tête), la reine des inversions, en utilisant les supports du yoga Iyengar : mur, cordes, couvertures pliées. Chacun·e a trouvé sa version juste et stable de la posture.
+Le dimanche matin a permis d'aborder *Sirsasana* (la posture sur la tête), la reine des inversions, en utilisant les supports du yoga Iyengar® : mur, cordes, couvertures pliées. Chacun·e a trouvé sa version juste et stable de la posture.
 
 ### Dimanche après-midi — Intégration et pranayama
 Pour terminer, une séance de pranayama allongé (*Savasana* et *Pranayama*) pour intégrer le travail du week-end et redescendre en douceur.

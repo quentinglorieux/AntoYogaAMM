@@ -1,17 +1,17 @@
 ---
 title: "La Naissance du Studio : une Bergerie Rénovée à la Chaux et au Chanvre"
-description: "Comment une ancienne bergerie à Larchant est devenue un studio de yoga Iyengar grâce à une rénovation écologique et familiale — chaux-chanvre, parquet en chêne récupéré, cordes murales et matériaux biosourcés."
+description: "Comment une ancienne bergerie à Larchant est devenue un studio de yoga Iyengar® grâce à une rénovation écologique et familiale — chaux-chanvre, parquet en chêne récupéré, cordes murales et matériaux biosourcés."
 image: "/images/stdio/travaux_anto.jpeg"
 date: 2025-09-15
 head:
   meta:
     - name: 'keywords'
-      content: 'studio yoga Larchant, rénovation écologique, chaux chanvre, bergerie, yoga Iyengar, matériaux biosourcés, renovation naturelle'
+      content: 'studio yoga Larchant, rénovation écologique, chaux chanvre, bergerie, yoga Iyengar®, matériaux biosourcés, renovation naturelle'
 ---
 
 # La Naissance du Studio : une Bergerie Rénovée à la Chaux et au Chanvre
 
-Il y a quelques années, ce n'était qu'une vieille bergerie. Sol en terre battue. Murs à nu. Un toit. Et une idée : en faire un lieu de pratique du yoga Iyengar, ancré dans son territoire, construit dans le respect du bâti ancien.
+Il y a quelques années, ce n'était qu'une vieille bergerie. Sol en terre battue. Murs à nu. Un toit. Et une idée : en faire un lieu de pratique du yoga Iyengar®, ancré dans son territoire, construit dans le respect du bâti ancien.
 
 Ce projet, c'est une aventure humaine avant tout. Celle d'une famille, d'amis, d'un artisan passionné par le chanvre — et d'une vision claire : construire sain, construire juste.
 
@@ -62,9 +62,9 @@ Le sol, c'est le point de contact de toute pratique de yoga. Il devait être par
 
 Nous avons récupéré un parquet en chêne massif, démonté ailleurs, puis soigneusement remis en place ici. Chaque lame sélectionnée, ajustée, posée à la main par la famille. C'est un parquet qui a déjà vécu, qui porte une histoire — et qui en entame une nouvelle, sous les pieds des élèves et les postures qui s'y déroulent.
 
-## Un Studio Pensé pour l'Iyengar
+## Un Studio Pensé pour l'Iyengar®
 
-Le yoga Iyengar est une pratique exigeante en termes d'infrastructure. Les cordes murales (*Yoga Kurunta*) sont indispensables — elles permettent des tractions, des suspensions, des étirements profonds impossibles à réaliser autrement.
+Le yoga Iyengar® est une pratique exigeante en termes d'infrastructure. Les cordes murales (*Yoga Kurunta*) sont indispensables — elles permettent des tractions, des suspensions, des étirements profonds impossibles à réaliser autrement.
 
 Pour les installer solidement, nous avons mis en place une **structure de tiges filetées ancrées dans la maçonnerie**, traversant le mur de part en part. Le résultat est remarquablement solide, capable de supporter le poids du corps en suspension totale, en toute sécurité.
 
@@ -80,6 +80,6 @@ C'est cette dimension humaine qui fait que ce studio est particulier. Les murs g
 
 Le résultat, c'est un espace chaleureux, lumineux, sain. Les murs en chaux-sable diffusent une lumière douce. Le plancher en chêne ancien craque légèrement — un rappel que le lieu a une histoire. Et les cordes murales attendent.
 
-C'est ici, à Larchant, que se pratique le yoga Iyengar.
+C'est ici, à Larchant, que se pratique le yoga Iyengar®.
 
 *[Découvrir les cours →](/yoga/cours)*

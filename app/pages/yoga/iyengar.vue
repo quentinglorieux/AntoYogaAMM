@@ -46,7 +46,7 @@
           </p>
           <blockquote class="border-l-4 border-orange-500 pl-6 py-4 italic text-stone-800 bg-white/60 rounded-r">
             La direction du coccyx, le placement du regard, le mouvement de la peau, le relâchement de la langue : des actions et des contre-actions de plus en plus subtiles pour trouver
-            le centre et s'y reposer. B.K.S Iyengar a apporté sa pierre à l'édifice en enrichissant la pratique posturale de supports et de nombreuses indications qui se sont transmises de mentors à élèves.
+            le centre et s'y reposer. B.K.S. Iyengar a apporté sa pierre à l'édifice en enrichissant la pratique posturale de supports et de nombreuses indications qui se sont transmises de mentors à élèves.
             Il a ainsi ouvert la pratique à tous les corps, sans discrimination,
             pour pouvoir transmettre le yoga au plus grand nombre et aussi graduellement que faire se peut.
           </blockquote>
@@ -68,6 +68,14 @@
         <div class="mt-12 rounded-2xl overflow-hidden shadow-lg mx-2 sm:mx-40">
           <NuxtImg src="/images/anto_kurmasana.png" alt="Antonine Rochet - Kurmasana" class="w-full h-auto" />
         </div>
+
+        <!-- Bloc AFYI -->
+        <div class="mt-12 max-w-2xl mx-auto bg-white/70 backdrop-blur-sm p-8 rounded-2xl border border-stone-200/60 shadow-sm flex flex-col items-center text-center gap-6">
+          <NuxtImg src="/images/logoafyi.png" alt="Logo AFYI" class="h-20 w-auto opacity-80" />
+          <p class="text-stone-700 leading-relaxed italic m-0">
+            L'Association Française de Yoga Iyengar® (<a href="https://www.afyi.fr/" target="_blank" class="text-orange-600 font-medium underline">afyi.fr</a>) pérennise l'enseignement de B.K.S. Iyengar en France.
+          </p>
+        </div>
       </div>
     </div>
   </div>
@@ -80,7 +88,7 @@ definePageMeta({
 
 useSeoMeta({
   title: 'Qu\'est-ce que le Yoga Iyengar ? | Méthode et Bienfaits',
-  description: 'Découvrez la méthode de yoga Iyengar : alignement précis, utilisation d\'accessoires, progression adaptée. Idéal pour débutants et pratiquants expérimentés à Fontainebleau et Larchant.',
-  keywords: 'yoga Iyengar méthode, qu\'est-ce que le yoga Iyengar, yoga alignement, yoga avec accessoires, yoga débutant, yoga précis, BKS Iyengar, yoga thérapeutique'
+  description: 'Découvrez la méthode de yoga Iyengar® : alignement précis, utilisation d\'accessoires, progression adaptée. Idéal pour débutants et pratiquants expérimentés à Fontainebleau et Larchant.',
+  keywords: 'yoga Iyengar® méthode, qu\'est-ce que le yoga Iyengar®, yoga alignement, yoga avec accessoires, yoga débutant, yoga précis, BKS Iyengar, yoga thérapeutique'
 })
 </script>

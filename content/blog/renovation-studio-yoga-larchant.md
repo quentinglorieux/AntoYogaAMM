@@ -55,12 +55,13 @@ Nous avons travaillé avec :
 - **Les murs enduits au chaux-chanvre** — perméables à la vapeur, naturellement antibactériens  
 - **La laine de bois au plafond** — isolation biosourcée, excellente acoustique pour la pratique, protège de la chaleur et du froid
 - **Les enduits finition au chaux-sable** — une finition douce et mate qui respire
+- **Du bois du sol au plafond** — du lambris au plafond, sur les murs pour les protéger et au sol pour la pratique
 
 ## Le Parquet en Chêne : une Seconde Vie
 
 Le sol, c'est le point de contact de toute pratique de yoga. Il devait être parfait, surtout pour la pratique des équilibres sur les mains!
 
-Nous avons démonté un parquet ailleurs, puis l'avons soigneusement remis en place ici. 
+Nous avons démonté un parquet ailleurs, puis l'avons soigneusement remis en place ici, poncé et huilé.
 
 ## Des ouvertures pour la lumière et la vue
 

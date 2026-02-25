@@ -14,24 +14,24 @@
       <h1 class="text-5xl font-light text-stone-950 italic mb-10">Le Studio</h1>
 
       <!-- Carrousel d'images du Studio -->
-      <div class="mb-20 md:mb-32 w-full max-w-5xl mx-auto mt-8 md:mt-12 group">
+      <div class="mb-12 md:mb-16 w-full max-w-2xl mx-auto mt-6 md:mt-8 group">
         <UCarousel
           v-slot="{ item }"
           loop
-          :autoplay="{ delay: 5000 }"
+          :autoplay="{ delay: 3000 }"
           arrows
           dots
           :items="studioImages"
-          class="w-full overflow-hidden shadow-2xl rounded-2xl bg-stone-100"
+          class="w-full overflow-hidden shadow-lg rounded-2xl bg-stone-100/30"
           :ui="{
             item: 'basis-full',
-            container: 'h-[400px] md:h-[650px]'
+            container: 'h-[190px] md:h-[300px]'
           }"
         >
           <NuxtImg 
             :src="item" 
             alt="Le studio AntoYoga" 
-            class="w-full h-full object-cover transform group-hover:scale-[1.02] transition-transform duration-1000"
+            class="w-full h-full object-contain p-4 md:p-6 transition-transform duration-1000"
             placeholder
           />
         </UCarousel>

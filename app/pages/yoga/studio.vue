@@ -22,7 +22,7 @@
           arrows
           dots
           :items="studioImages"
-          class="w-full overflow-hidden shadow-lg rounded-2xl bg-stone-100/30"
+          class="w-full overflow-hidden"
           :ui="{
             item: 'basis-full',
             container: 'h-[190px] md:h-[300px]'
@@ -31,7 +31,7 @@
           <NuxtImg 
             :src="item" 
             alt="Le studio AntoYoga" 
-            class="w-full h-full object-contain p-4 md:p-6 transition-transform duration-1000"
+            class="w-full h-full object-contain transition-transform duration-1000"
             placeholder
           />
         </UCarousel>

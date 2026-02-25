@@ -211,7 +211,6 @@ definePageMeta({
 })
 
 const studioImages = [
-  '/images/studio_anto.png',
   '/images/studio/studio_cordes2.jpg',
   '/images/studio/studio_casier.jpg',
   '/images/studio/studio_fenetres.jpg',

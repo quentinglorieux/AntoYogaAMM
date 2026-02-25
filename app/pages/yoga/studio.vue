@@ -25,7 +25,7 @@
           class="w-full overflow-hidden"
           :ui="{
             item: 'basis-full',
-            container: 'h-[190px] md:h-[300px]'
+            container: 'h-[380px] md:h-[600px]'
           }"
         >
           <NuxtImg 

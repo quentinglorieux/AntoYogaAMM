@@ -9,15 +9,15 @@ head:
       content: 'studio yoga Larchant, rénovation écologique, chaux chanvre, bergerie, yoga Iyengar®, matériaux biosourcés, renovation naturelle'
 ---
 
-# La Naissance du Studio : une Bergerie Rénovée à la Chaux et au Chanvre
+# La Naissance du Studio :
 
-Il y a quelques années, ce n'était qu'une vieille bergerie. Sol en terre battue. Murs à nu. Un toit. Et une idée : en faire un lieu de pratique du yoga Iyengar®, ancré dans son territoire, construit dans le respect du bâti ancien.
+Il y a quelques années, c'était une ancienne bergerie. Sol en terre battue, murs et charpente à nu, un toit... et une idée : en faire un lieu de pratique du yoga Iyengar®, construit dans le respect du bâti ancien.
 
-Ce projet, c'est une aventure humaine avant tout. Celle d'une famille, d'amis, d'un artisan passionné par le chanvre — et d'une vision claire : construire sain, construire juste.
+Avec l'aide et le soutien des amis, de la famille et des élèves, le studio a pu ouvrir définitivement ses portes en septembre 2025.
 
 ## Un Album en Mouvement
 
-Parce qu'une image vaut mille mots, voici l'intégralité du chantier, de la terre battue initiale aux finitions à la chaux :
+Parce qu'une image vaut mille mots, voici quelques photos du chantier, de la terre battue aux finitions à la chaux :
 
 ::blog-carousel
 ---
@@ -52,33 +52,35 @@ Un bâti ancien a besoin de respirer. C'est le principe fondamental qui a guidé
 Nous avons travaillé avec :
 
 - **La dalle en chaux-chanvre** — isolante, régulatrice d'humidité, saine à vivre au quotidien
-- **Les murs enduits à la chaux-chanvre** — perméables à la vapeur, naturellement antibactériens  
-- **La laine de bois au plafond** — isolation biosourcée, excellente acoustique pour la pratique
-- **Les enduits finition à la chaux-sable** — une finition douce et mate qui respire
+- **Les murs enduits au chaux-chanvre** — perméables à la vapeur, naturellement antibactériens  
+- **La laine de bois au plafond** — isolation biosourcée, excellente acoustique pour la pratique, protège de la chaleur et du froid
+- **Les enduits finition au chaux-sable** — une finition douce et mate qui respire
 
 ## Le Parquet en Chêne : une Seconde Vie
 
-Le sol, c'est le point de contact de toute pratique de yoga. Il devait être parfait.
+Le sol, c'est le point de contact de toute pratique de yoga. Il devait être parfait, surtout pour la pratique des équilibres sur les mains!
 
-Nous avons récupéré un parquet en chêne massif, démonté ailleurs, puis soigneusement remis en place ici. Chaque lame sélectionnée, ajustée, posée à la main par la famille. C'est un parquet qui a déjà vécu, qui porte une histoire — et qui en entame une nouvelle, sous les pieds des élèves et les postures qui s'y déroulent.
+Nous avons démonté un parquet ailleurs, puis l'avons soigneusement remis en place ici. 
+
+## Des ouvertures pour la lumière et la vue
+
+Vue sur la basilique de Larchant avec cette magnifique ouverture entourée de pierre de tailles réalisée par notre artisan. Des fenêtres de seconde main et des vélux posés (par 35° avant l'orage) pour capter plus de lumière.
 
 ## Un Studio Pensé pour l'Iyengar®
 
-Le yoga Iyengar® est une pratique exigeante en termes d'infrastructure. Les cordes murales (*Yoga Kurunta*) sont indispensables — elles permettent des tractions, des suspensions, des étirements profonds impossibles à réaliser autrement.
+Le yoga Iyengar® est une pratique exigeante en termes d'infrastructure. Les cordes murales sont indispensables — elles permettent des tractions, des suspensions, des étirements profonds et des adaptations impossibles à réaliser autrement.
 
-Pour les installer solidement, nous avons mis en place une **structure de tiges filetées ancrées dans la maçonnerie**, traversant le mur de part en part. Le résultat est remarquablement solide, capable de supporter le poids du corps en suspension totale, en toute sécurité.
+Pour les installer solidement, nous avons mis en place une **structure de madriers fixés dans le mur en pierre avec des tiges filetées**. Le résultat est remarquablement solide, capable de supporter le poids du corps en suspension totale, en toute sécurité.
 
 ## Une Aventure Collective
 
 Ce chantier n'aurait pas été possible sans eux.
 
-Les **amis** qui ont donné de leurs week-ends et de leur énergie. La **famille** (LA FAMILLE !) qui a été là à chaque étape décisive. Et **l'artisan**, dont le soin et la précision dans l'application des enduits chanvre ont fait toute la différence.
-
-C'est cette dimension humaine qui fait que ce studio est particulier. Les murs gardent la trace de toutes ces mains. Quand on pratique le yoga dans cet espace, on est entouré de quelque chose de plus grand que soi.
+Les **amis** qui ont donné de leurs temps et de leur énergie. La **famille** (LA FAMILLE !) qui a été là à chaque étape décisive. Et **l'artisan**, dont le soin et la précision dans l'application ont fait toute la différence.
 
 ---
 
-Le résultat, c'est un espace chaleureux, lumineux, sain. Les murs en chaux-sable diffusent une lumière douce. Le plancher en chêne ancien craque légèrement — un rappel que le lieu a une histoire. Et les cordes murales attendent.
+Le résultat, c'est un espace chaleureux, lumineux et sain. Les murs en chaux-sable diffusent une lumière douce. Le plancher en chêne ancien craque légèrement et le Om résonne magnifiquement sous le haut plafond.
 
 C'est ici, à Larchant, que se pratique le yoga Iyengar®.
 

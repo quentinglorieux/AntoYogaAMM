@@ -13,38 +13,28 @@
     <div class="relative z-10 max-w-6xl mx-auto px-6 py-16">
       <h1 class="text-5xl font-light text-stone-950 italic mb-10">Le Studio</h1>
 
-      <!-- Composition d'images du Studio (Editorial Offset) -->
-      <div class="mb-32 md:mb-40 relative h-[500px] md:h-[750px] w-full max-w-5xl mx-auto mt-8 md:mt-12">
-        
-        <!-- Image Arrière Plan Gauche (Intérieur Studio Vide - Très gros) -->
-        <div class="absolute left-0 top-0 md:top-[5%] w-[85%] md:w-[75%] h-[400px] md:h-[650px] shadow-[0_20px_50px_rgba(0,0,0,0.15)] z-10 group overflow-hidden bg-gray-100">
+      <!-- Carrousel d'images du Studio -->
+      <div class="mb-20 md:mb-32 w-full max-w-5xl mx-auto mt-8 md:mt-12 group">
+        <UCarousel
+          v-slot="{ item }"
+          loop
+          :autoplay="{ delay: 5000 }"
+          arrows
+          dots
+          :items="studioImages"
+          class="w-full overflow-hidden shadow-2xl rounded-2xl bg-stone-100"
+          :ui="{
+            item: 'basis-full',
+            container: 'h-[400px] md:h-[650px]'
+          }"
+        >
           <NuxtImg 
-            src="/images/studio_vide.jpg" 
-            alt="L'intérieur du studio" 
-            class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-1000" 
-            style="filter: sepia(0.2) saturate(1.15) contrast(1.1) brightness(1.05);"
+            :src="item" 
+            alt="Le studio AntoYoga" 
+            class="w-full h-full object-cover transform group-hover:scale-[1.02] transition-transform duration-1000"
+            placeholder
           />
-        </div>
-
-        <!-- Image Premier Plan Droite (Anto - De tout son long) -->
-        <div class="absolute right-0 top-0 w-[45%] md:w-[40%] h-full shadow-[0_30px_60px_rgba(0,0,0,0.3)] z-30 group overflow-hidden bg-gray-100">
-          <NuxtImg 
-            src="/images/studio_anto.png" 
-            alt="Pratique de Yoga Iyengar® dans le studio" 
-            class="w-full h-full object-cover object-top transform group-hover:scale-[1.03] transition-transform duration-1000"
-            style="filter: sepia(0.2) saturate(1.15) contrast(1.1) brightness(1.05);"
-          />
-        </div>
-
-        <!-- Image Centrale Offset (Extérieur - Plus grande, au 1er plan) -->
-        <div class="absolute left-[15%] md:left-[25%] bottom-[-20px] md:bottom-[10px] w-[65%] md:w-[45%] h-[250px] md:h-[420px] shadow-[0_30px_60px_rgba(0,0,0,0.25)] z-40 group overflow-hidden bg-gray-100">
-          <NuxtImg 
-            src="/images/studio-outside2.jpg" 
-            alt="L'extérieur du studio à Larchant" 
-            class="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-1000" 
-            style="filter: sepia(0.2) saturate(1.15) contrast(1.1) brightness(1.05);"
-          />
-        </div>
+        </UCarousel>
       </div>
 
       <div class="space-y-10 text-stone-800 leading-relaxed">
@@ -219,6 +209,14 @@
 definePageMeta({
   layout: 'default'
 })
+
+const studioImages = [
+  '/images/studio_anto.png',
+  '/images/studio/studio_cordes2.jpg',
+  '/images/studio/studio_casier.jpg',
+  '/images/studio/studio_fenetres.jpg',
+  '/images/studio/studio_matos.jpg'
+]
 
 useSeoMeta({
   title: 'Le Studio de Yoga Iyengar à Larchant | Antonine Rochet',

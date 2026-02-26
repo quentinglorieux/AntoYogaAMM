@@ -35,7 +35,7 @@
 
                 <div class="lg:w-80 shrink-0">
           <div class="rounded-lg overflow-hidden shadow-lg sticky top-8">
-            <NuxtImg src="/images/anto_equi.png" alt="Antonine Rochet" class="w-full h-auto" />
+            <NuxtImg src="/images/studio/anto_equi.png" alt="Antonine Rochet" class="w-full h-auto" />
           </div>
         </div>
       </div>

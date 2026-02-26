@@ -22,25 +22,25 @@ Parce qu'une image vaut mille mots, voici quelques photos du chantier, de la ter
 ::blog-carousel
 ---
 images:
-  - src: /images/stdio/travaux-bergerie.jpg
+  - src: /images/studio/travaux-bergerie.jpg
     alt: "La bergerie à l'origine : terre battue et murs à nus"
-  - src: /images/stdio/travaux_ouverture.jpg
+  - src: /images/studio/travaux_ouverture.jpg
     alt: "Ouverture des murs et création de lumière"
-  - src: /images/stdio/travaux_isolation.jpg
+  - src: /images/studio/travaux_isolation.jpg
     alt: "Isolation écologique : laine de bois au plafond"
-  - src: /images/stdio/travaux_fenetre.jpg
+  - src: /images/studio/travaux_fenetre.jpg
     alt: "Pose des fenêtres pour fermer le bâtiment"
-  - src: /images/stdio/travaux_chauxchanvre.jpg
+  - src: /images/studio/travaux_chauxchanvre.jpg
     alt: "Application de la dalle et des enduits chaux-chanvre"
-  - src: /images/stdio/travaux_chauxsable.jpg
+  - src: /images/studio/travaux_chauxsable.jpg
     alt: "Finitions des murs au chaux-sable pour une respiration naturelle"
-  - src: /images/stdio/travaux_lambris.jpg
+  - src: /images/studio/travaux_lambris.jpg
     alt: "Travaux de menuiserie et pose du lambris sous rampant"
-  - src: /images/stdio/travaux_lambrismurs.jpg
+  - src: /images/studio/travaux_lambrismurs.jpg
     alt: "Détails de l'habillage bois des murs"
-  - src: /images/stdio/travaux_anto.jpeg
+  - src: /images/studio/travaux_anto.jpeg
     alt: "Dernière étape : ponçage à la main du parquet massif"
-  - src: /images/stdio/travaux_cordes.jpg
+  - src: /images/studio/travaux_cordes.jpg
     alt: "Le studio terminé : installation des cordes murales et première pratique"
 ---
 ::

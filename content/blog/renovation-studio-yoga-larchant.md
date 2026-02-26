@@ -1,7 +1,7 @@
 ---
 title: "La Naissance du Studio : une Bergerie Rénovée à la Chaux et au Chanvre"
 description: "Comment une ancienne bergerie à Larchant est devenue un studio de yoga Iyengar® grâce à une rénovation écologique et familiale — chaux-chanvre, parquet en chêne récupéré, cordes murales et matériaux biosourcés."
-image: "/images/stdio/travaux_anto.jpeg"
+image: "/images/studio/travaux_anto.jpeg"
 date: 2025-09-15
 head:
   meta:

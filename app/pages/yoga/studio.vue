@@ -218,7 +218,7 @@ const studioImages = [
 ]
 
 useSeoMeta({
-  title: 'Le Studio de Yoga Iyengar à Larchant | Antonine Rochet',
+  title: 'Le Studio de Yoga Iyengar® à Larchant | Antonine Rochet',
   description: 'Studio de yoga Iyengar® à Larchant près de Fontainebleau. Cours collectifs et particuliers tous niveaux. Planning des cours à La Chapelle-la-Reine, Nemours et Le Vaudoué. Seine-et-Marne 77.',
   keywords: 'studio yoga Larchant, yoga Iyengar® Fontainebleau, cours yoga Seine-et-Marne, yoga 77, planning cours yoga, yoga Nemours, yoga La Chapelle-la-Reine, studio yoga 77'
 })

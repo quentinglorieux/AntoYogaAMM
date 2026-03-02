@@ -95,7 +95,7 @@ definePageMeta({
 })
 
 useSeoMeta({
-  title: 'Antonine Rochet - Professeure de Yoga Iyengar Certifiée | Fontainebleau',
+  title: 'Antonine Rochet - Professeure de Yoga Iyengar® Certifiée | Fontainebleau',
   description: 'Antonine Rochet, professeure de yoga Iyengar® certifiée et accompagnatrice en montagne diplômée. Formation, expérience et approche pédagogique à Larchant et Fontainebleau.',
   keywords: 'Antonine Rochet yoga, professeur yoga Iyengar® Fontainebleau, enseignante yoga certifiée, prof yoga Larchant, yoga teacher 77, accompagnatrice montagne yoga'
 })

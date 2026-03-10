@@ -7,13 +7,13 @@
         :class="activeSection === 'yoga' ? 'basis-[92%]' : 'basis-[8%]'"
         @click="setActiveSection('yoga')"
       >
-        <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga Iyengar®" class="absolute inset-0 w-full h-full object-cover" />
+        <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga Iyengar" class="absolute inset-0 w-full h-full object-cover" />
         <div class="absolute inset-0 bg-linear-to-br from-orange-900/10 to-pink-900/10"></div>
 
         <div v-if="activeSection === 'yoga'" class="relative z-10 text-center space-y-6 px-8 animate-fade-in">
-          <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar®</h1>
+          <h1 class="text-6xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
           <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
-            Découvrez la pratique du yoga Iyengar® avec Antonine Rochet
+            Découvrez la pratique du yoga Iyengar avec Antonine Rochet
           </p>
           <div class="flex gap-4 justify-center mt-8">
             <UButton to="/yoga/studio" size="lg" color="primary" variant="solid">

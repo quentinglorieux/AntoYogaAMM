@@ -48,7 +48,7 @@
           </NuxtLink>
           <NuxtLink to="/yoga/iyengar" class="text-gray-600 hover:text-orange-600 transition-colors"
             active-class="text-orange-600 font-medium">
-            Le Yoga Iyengar®
+            Le Yoga Iyengar
           </NuxtLink>
           <NuxtLink to="/yoga/enseignante" class="text-gray-600 hover:text-orange-600 transition-colors"
             active-class="text-orange-600 font-medium">
@@ -122,7 +122,7 @@
               <NuxtLink to="/yoga/iyengar"
                 class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"
                 active-class="text-orange-600 font-medium" @click="isOpen = false">
-                Le Yoga Iyengar®
+                Le Yoga Iyengar
               </NuxtLink>
               <NuxtLink to="/yoga/enseignante"
                 class="text-2xl font-light text-gray-800 hover:text-orange-600 transition-colors"

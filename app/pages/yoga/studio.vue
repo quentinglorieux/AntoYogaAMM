@@ -40,7 +40,7 @@
       <div class="space-y-10 text-stone-800 leading-relaxed">
         <div class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
           <p class="text-lg italic text-stone-900">
-            Situé au cœur de Larchant, le studio est un espace paisible et chaleureux, dédié à la pratique du yoga Iyengar®. Pour vous accueillir dans les meilleures conditions, il est entièrement équipé : 
+            Situé au cœur de Larchant, le studio est un espace paisible et chaleureux, dédié à la pratique du yoga Iyengar. Pour vous accueillir dans les meilleures conditions, il est entièrement équipé : 
             tapis, briques, sangles, couvertures, chaises et cordes murales.
           </p>
         </div>
@@ -218,8 +218,8 @@ const studioImages = [
 ]
 
 useSeoMeta({
-  title: 'Le Studio de Yoga Iyengar® à Larchant | Antonine Rochet',
-  description: 'Studio de yoga Iyengar® à Larchant près de Fontainebleau. Cours collectifs et particuliers tous niveaux. Planning des cours à La Chapelle-la-Reine, Nemours et Le Vaudoué. Seine-et-Marne 77.',
-  keywords: 'studio yoga Larchant, yoga Iyengar® Fontainebleau, cours yoga Seine-et-Marne, yoga 77, planning cours yoga, yoga Nemours, yoga La Chapelle-la-Reine, studio yoga 77'
+  title: 'Le Studio de Yoga Iyengar à Larchant | Antonine Rochet',
+  description: 'Studio de yoga Iyengar à Larchant près de Fontainebleau. Cours collectifs et particuliers tous niveaux. Planning des cours à La Chapelle-la-Reine, Nemours et Le Vaudoué. Seine-et-Marne 77.',
+  keywords: 'studio yoga Larchant, yoga Iyengar Fontainebleau, cours yoga Seine-et-Marne, yoga 77, planning cours yoga, yoga Nemours, yoga La Chapelle-la-Reine, studio yoga 77'
 })
 </script>

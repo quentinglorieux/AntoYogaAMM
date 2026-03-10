@@ -1,12 +1,12 @@
 ---
 title: "Retour sur le stage Inversions — 7 et 8 février 2026"
-description: "Un week-end intense et lumineux au studio de Larchant pour explorer les postures inversées du yoga Iyengar®. Retour sur deux jours de pratique partagée."
+description: "Un week-end intense et lumineux au studio de Larchant pour explorer les postures inversées du yoga Iyengar. Retour sur deux jours de pratique partagée."
 image: "/images/blog/stagefev26.webp"
 date: 2026-02-21
 head:
   meta:
     - name: 'keywords'
-      content: 'stage yoga Larchant, inversions yoga Iyengar®, compte-rendu stage, yoga février 2026, sirsasana, sarvangasana, Larchant'
+      content: 'stage yoga Larchant, inversions yoga Iyengar, compte-rendu stage, yoga février 2026, sirsasana, sarvangasana, Larchant'
 ---
 
 # Retour sur le stage Inversions — 7 et 8 février 2026
@@ -26,7 +26,7 @@ Nous avons commencé par un travail en profondeur sur les postures debout, pour 
 L'après-midi a été consacrée à une pratique restaurative.
 
 ### Dimanche matin — Vers Sirsasana
-Le dimanche matin a permis d'aborder *Sirsasana* (la posture sur la tête), la reine des inversions, en utilisant les supports du yoga Iyengar® ainsi que Adho Mukha Vrksasana (la posture sur les mains). Chacun·e a trouvé sa version juste et stable de la posture. Puis nous nous sommes aventurée sur le chemin de Urdhva Dhanurasana (la posture du pont) en privilégiant l'ouverture des épaules et un bas du dos allongé.
+Le dimanche matin a permis d'aborder *Sirsasana* (la posture sur la tête), la reine des inversions, en utilisant les supports du yoga Iyengar ainsi que Adho Mukha Vrksasana (la posture sur les mains). Chacun·e a trouvé sa version juste et stable de la posture. Puis nous nous sommes aventurée sur le chemin de Urdhva Dhanurasana (la posture du pont) en privilégiant l'ouverture des épaules et un bas du dos allongé.
 
 ### Dimanche après-midi — Intégration et pranayama
 Pour terminer, une séance de pranayama allongé pour intégrer le travail du week-end et redescendre en douceur.

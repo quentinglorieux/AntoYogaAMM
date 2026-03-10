@@ -21,10 +21,10 @@
                 alt="Logo AFYI" 
                 class="absolute -top-24 -right-24 sm:-top-32 sm:-right-40 h-48 sm:h-72 w-auto object-contain z-0 pointer-events-none" 
               />
-              <h1 class="relative z-10 text-7xl font-light text-white drop-shadow-lg">Yoga Iyengar®</h1>
+              <h1 class="relative z-10 text-7xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
             </div>
             <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
-              Découvrez la pratique du yoga Iyengar® avec Antonine Rochet
+              Découvrez la pratique du yoga Iyengar avec Antonine Rochet
             </p>
             <div class="flex gap-4 justify-center mt-8">
               <UButton to="/yoga/studio" size="xl" color="primary" variant="solid">

@@ -53,7 +53,33 @@
               </div>
             </div>
           </div>
+          <div class="bg-white rounded-2xl p-8 shadow-xl shadow-stone-200 border border-stone-100 border-l-4 border-l-orange-500 relative overflow-hidden group">
+            <div class="relative z-10">
+              <div class="inline-flex items-center gap-1.5 bg-orange-600 text-white text-xs font-bold uppercase tracking-widest px-2.5 py-1 rounded-full mb-4">
+                <span class="relative flex h-2 w-2">
+                  <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-200 opacity-75"></span>
+                  <span class="relative inline-flex rounded-full h-2 w-2 bg-white"></span>
+                </span>
+                Prochain stage
+              </div>
 
+              <h2 class="text-3xl font-semibold text-stone-950 mb-2">13 et 14 juin 2026</h2>
+              <p class="text-stone-900 text-lg mb-6 leading-relaxed">
+                Un stage pour déployer les acquis de cette belle année de pratique.<br>
+                <span class="font-medium bg-stone-100 text-orange-900 px-2 py-0.5 rounded italic">Horaires : 9h30–12h30 & 15h00–17h00</span>
+                <span class="font-medium bg-stone-100 text-stone-900 px-2 py-0.5 rounded italic">Tarif : 100€</span>
+              </p>
+
+              <div class="flex flex-col sm:flex-row items-center gap-4 pt-2">
+                <UButton to="mailto:antonine.rochet@hotmail.fr" icon="i-heroicons-envelope" color="neutral" variant="solid" size="lg">
+                  Réserver ma place
+                </UButton>
+                <span class="text-stone-600 text-sm">
+                  ou contactez-moi : <a href="mailto:antonine.rochet@hotmail.fr" class="underline hover:text-orange-600 text-stone-900">antonine.rochet@hotmail.fr</a>
+                </span>
+              </div>
+            </div>
+          </div>
           <!-- Stage passé -->
           <div class="bg-white/50 rounded-2xl p-6 border border-stone-200/60 grayscale opacity-50 hover:opacity-80 transition-opacity mb-12">
             <div class="flex justify-between items-start">

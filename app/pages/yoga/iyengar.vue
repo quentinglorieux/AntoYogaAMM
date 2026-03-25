@@ -19,7 +19,7 @@
         <UCarousel
           v-slot="{ item }"
           loop
-          :autoplay="{ delay: 4000 }"
+          :autoplay="{ delay: 2000 }"
           :items="transmissionImages"
           class="w-full h-full rounded-none"
           :ui="{

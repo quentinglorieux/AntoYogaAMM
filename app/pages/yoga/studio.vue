@@ -185,6 +185,64 @@
         </section>
 
         <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
+          <h2 class="text-3xl font-light text-stone-950 mb-8 mt-0 italic">Les différents niveaux</h2>
+          
+          <div class="grid md:grid-cols-2 gap-8">
+            <!-- Débutant / Intermédiaire -->
+            <div class="flex gap-6">
+              <div class="w-16 h-16 shrink-0 bg-stone-50 rounded-full flex items-center justify-center p-2 border border-stone-100 group">
+                <NuxtImg src="/images/lulu-om-nobg.png" alt="" class="w-full h-full object-contain transform scale-125 transition-transform group-hover:scale-150 duration-500" />
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-xl font-medium text-orange-950 italic">Débutant / Intermédiaire</h3>
+                <p class="text-stone-700 text-sm leading-relaxed">
+                  Idéal pour découvrir les fondamentaux de la méthode Iyengar®. Nous amenons graduellement les postures par des éducatifs qui ouvrent le corps, sensibilisent et renforcent. Accessible à toutes et tous, sans prérequis de souplesse!
+                </p>
+              </div>
+            </div>
+
+            <!-- Intermédiaire / Avancé -->
+            <div class="flex gap-6">
+              <div class="w-16 h-16 shrink-0 bg-stone-50 rounded-full flex items-center justify-center p-2 border border-stone-100 group">
+                <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="" class="w-full h-full object-contain transform scale-125 transition-transform group-hover:scale-150 duration-500" />
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-xl font-medium text-orange-950 italic">Intermédiaire / Avancé</h3>
+                <p class="text-stone-700 text-sm leading-relaxed">
+                  Le rythme du déroulé y sera plus rapide et c'est un cours physiquement assez soutenu. Il s'adresse à qui veut explorer d'avantage, le seul prérequis étant de s'y amuser!
+                </p>
+              </div>
+            </div>
+
+            <!-- Yoga doux -->
+            <div class="flex gap-6">
+              <div class="w-16 h-16 shrink-0 bg-stone-50 rounded-full flex items-center justify-center p-2 border border-stone-100 group">
+                <NuxtImg src="/images/lulu-brique-nobg.png" alt="" class="w-full h-full object-contain transform scale-125 transition-transform group-hover:scale-150 duration-500" />
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-xl font-medium text-orange-950 italic">Yoga doux</h3>
+                <p class="text-stone-700 text-sm leading-relaxed">
+                  Une approche en douceur sur un temps plus court (1h). En utilisant largement les supports, nous favorisons l'exploration d'un axe en particulier pour relâcher les tensions et retrouver de l'aisance. Ce cours est également adapté aux femmes enceintes qui désirent pratiquer doucement et aux femmes en post-partum (avec leur bébé).
+                </p>
+              </div>
+            </div>
+
+            <!-- Yoga adapté -->
+            <div class="flex gap-6">
+              <div class="w-16 h-16 shrink-0 bg-stone-50 rounded-full flex items-center justify-center p-2 border border-stone-100 group">
+                <NuxtImg src="/images/lulu-corde-nobg.png" alt="" class="w-full h-full object-contain transform scale-125 transition-transform group-hover:scale-150 duration-500" />
+              </div>
+              <div class="space-y-2">
+                <h3 class="text-xl font-medium text-orange-950 italic">Yoga adapté</h3>
+                <p class="text-stone-700 text-sm leading-relaxed">
+                  Un cours en petit effectif pour être plus présente à vos côtés et vous aider à vous positionner au mieux dans les postures. La pratique est "sur-mesure" pour que chacun/chacune puisse bénéficier des bienfaits du yoga en toute sécurité. Cours adressant des problématiques variées (équilibre, renforcement des jambes, étirement du dos, etc.), il est axé sur le troisième âge.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
           <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Accès</h2>
           <div class="flex flex-col sm:flex-row gap-8 items-center">
             <div class="flex-1">

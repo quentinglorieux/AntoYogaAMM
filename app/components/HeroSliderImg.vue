@@ -6,31 +6,32 @@
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'yoga' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('yoga')">
         <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover object-left" />
-        <div class="absolute inset-0 "></div>
+        <div class="absolute inset-0" style="background: rgba(255,255,255,0.35);"></div>
 
         <div v-if="activeSection === 'yoga'"
           class="relative z-10 w-full h-full flex flex-col items-center justify-between py-8 sm:py-16 px-6 sm:px-8 animate-fade-in">
           
-          <div></div>
+          <!-- Logo AFYI en bas à gauche du panel -->
+          <div class="self-start">
+            <NuxtImg 
+              src="/images/logoafyi.png" 
+              alt="Logo AFYI" 
+              class="h-24 sm:h-36 w-auto object-contain opacity-90" 
+            />
+          </div>
 
           <div class="text-center space-y-6">
             <div class="relative inline-block">
-              <!-- Logo AFYI placé derrière le titre en haut à droite -->
-              <NuxtImg 
-                src="/images/logoafyi.png" 
-                alt="Logo AFYI" 
-                class="absolute -top-24 -right-24 sm:-top-32 sm:-right-40 h-48 sm:h-72 w-auto object-contain z-0 pointer-events-none" 
-              />
-              <h1 class="relative z-10 text-7xl font-light text-white drop-shadow-lg">Yoga Iyengar</h1>
+              <h1 class="relative z-10 text-7xl font-light text-stone-800 drop-shadow">Yoga Iyengar</h1>
             </div>
-            <p class="text-xl text-white/90 max-w-2xl mx-auto drop-shadow">
+            <p class="text-xl text-stone-800 max-w-2xl mx-auto bg-white/30 rounded-md px-3 py-1">
               Découvrez la pratique du yoga Iyengar avec Antonine Rochet
             </p>
             <div class="flex gap-4 justify-center mt-8">
               <UButton to="/yoga/studio" size="xl" color="primary" variant="solid">
                 Découvrir le studio
               </UButton>
-              <UButton to="/yoga/cours" size="xl" color="primary" variant="subtle" class="bg-white/10 backdrop-blur">
+              <UButton to="/yoga/cours" size="xl" color="neutral" variant="solid">
                 Les cours
               </UButton>
             </div>

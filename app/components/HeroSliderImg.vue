@@ -5,8 +5,8 @@
       <div
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'yoga' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('yoga')">
-        <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover object-left" />
-        <div class="absolute inset-0" style="background: rgba(255,255,255,0.35);"></div>
+        <NuxtImg src="/images/yoga-bg.jpg" alt="Yoga" class="absolute inset-0 w-full h-full object-cover object-right sm:object-left" />
+        <div class="absolute inset-0" style="background: rgba(255,255,255,0.30);"></div>
 
         <div v-if="activeSection === 'yoga'"
           class="relative z-10 w-full h-full flex flex-col items-center justify-between py-8 sm:py-16 px-6 sm:px-8 animate-fade-in">
@@ -51,8 +51,8 @@
       <div
         class="relative transition-all duration-700 ease-in-out cursor-pointer overflow-hidden flex items-center justify-center shrink-0"
         :class="activeSection === 'mountain' ? 'basis-[94%]' : 'basis-[6%]'" @click="setActiveSection('mountain')">
-        <NuxtImg src="/images/mountain4.jpeg" alt="Montagne" class="absolute inset-0 w-full h-full object-cover" />
-        <div class="absolute inset-0 bg-linear-to-br from-stone-800/15 to-stone-900/15"></div>
+        <NuxtImg src="/images/bg-amm.jpeg" alt="Montagne" class="absolute inset-0 w-full h-full object-cover object-left sm:object-center" />
+        <div class="absolute inset-0 bg-slate-600/35"></div>
 
         <div v-if="activeSection === 'mountain'"
           class="relative z-10 w-full h-full flex flex-col items-center justify-between py-16 px-8 animate-fade-in">

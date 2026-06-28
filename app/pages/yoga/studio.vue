@@ -50,14 +50,14 @@
           <p>
             Les cours de yoga y sont dispensés par Antonine et portés par l'association Larchant Animation, permettant ainsi de maintenir des tarifs abordables pour le plus grand nombre.
             Cette association, forte de ses nombreux bénévoles et de ses 40 ans d'existence,
-            propose également des activités variées, conférences, évènements (trail, vélo, concerts, projections, etc.) ou encore sa
+            propose également des activités variées (LIA, danse, gym douce), des conférences, des évènements (trail, vélo, concerts, projections, etc.) ou encore sa
             bibliothèque. Visitez leur site <a href="https://larchantanimation.fr/" target="_blank" class="text-orange-600 hover:text-orange-700 underline">ici</a>.
           </p>
         </section>
 
         <section>
         <div class="text-center mx-auto mb-8 w-full md:w-auto">
-          <h2 class="text-3xl font-light text-stone-950 italic m-0">Horaires des cours au studio</h2>
+          <h2 class="text-3xl font-light text-stone-950 italic m-0">Horaires des cours au studio 2026-2027</h2>
         </div>
         
         <div class="grid md:grid-cols-2 gap-6">
@@ -125,7 +125,7 @@
                   <NuxtImg src="/images/lulu-equilibre-nobg.png" alt="" class="w-full h-full object-contain transform scale-150 relative z-10" />
                 </div>
                 <div>
-                  <p class="font-medium text-stone-900">18h30 – 20h00</p>
+                  <p class="font-medium text-stone-900">18h30 – 20h30</p>
                   <p class="text-orange-900/80 italic text-sm">Intermédiaire / Avancé</p>
                 </div>
               </div>
@@ -182,6 +182,17 @@
               </UButton>
             </div>
           </div>
+        </section>
+
+        <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
+          <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Les tarifs</h2>
+          <p>
+            Évolution des tarifs 2026-2027 : pourquoi trois tarifs? Pour garder l'équilibre financier du cours, qu'il puisse continuer à se développer tout en restant accessible.
+            <strong>200€ Accès</strong> : si le budget loisir est limité
+            <strong>300€ Équilibre</strong> : le prix réel du cours menant à l'équilibre
+            <strong>400€ Soutien</strong> : une contribution qui permet à quelqu'un d'autre de payer 200€
+            -20% pour un deuxième cours de yoga ou une seconde activité proposée par Larchant Animation par semaine.
+          </p>
         </section>
 
         <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">

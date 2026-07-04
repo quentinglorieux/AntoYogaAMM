@@ -185,13 +185,38 @@
         </section>
 
         <section class="bg-white shadow-sm rounded-2xl p-8 border border-stone-200/60">
-          <h2 class="text-3xl font-light text-stone-950 mb-4 mt-0 italic">Les tarifs</h2>
-          <p>
-            Évolution des tarifs 2026-2027 : pourquoi trois tarifs? Pour garder l'équilibre financier du cours, qu'il puisse continuer à se développer tout en restant accessible.
-            <strong>200€ Accès</strong> : si le budget loisir est limité
-            <strong>300€ Équilibre</strong> : le prix réel du cours menant à l'équilibre
-            <strong>400€ Soutien</strong> : une contribution qui permet à quelqu'un d'autre de payer 200€
-            -20% pour un deuxième cours de yoga ou une seconde activité proposée par Larchant Animation par semaine.
+          <h2 class="text-3xl font-light text-stone-950 mb-2 mt-0 italic">Les tarifs</h2>
+          <p class="text-stone-600 mb-6">
+            Évolution des tarifs 2026-2027 : pourquoi trois tarifs ? <br> Pour garder l'équilibre financier du cours, qu'il puisse continuer à se développer tout en restant accessible.
+          </p>
+
+          <div class="grid sm:grid-cols-3 gap-4 mb-6">
+            <div class="rounded-xl border border-stone-200 p-5">
+              <p class="text-2xl font-light text-stone-950">200€/an</p>
+              <p class="text-stone-500 text-xs mb-1">soit moins de 6€/cours</p>
+              <p class="text-orange-900/80 italic text-sm mb-2">Accès</p>
+              <p class="text-stone-600 text-sm">Si votre budget loisir est limité.</p>
+            </div>
+            <div class="rounded-xl border border-orange-500/40 p-5">
+              <p class="text-2xl font-light text-stone-950">300€/an</p>
+              <p class="text-stone-500 text-xs mb-1">soit moins de 9€/cours</p>
+              <p class="text-orange-900/80 italic text-sm mb-2">Équilibre</p>
+              <p class="text-stone-600 text-sm">Un tarif menant à l'équilibre. C'est le prix qui permet de maintenir l'équilibre financier des cours.</p>
+            </div>
+            <div class="rounded-xl border border-stone-200 p-5">
+              <p class="text-2xl font-light text-stone-950">400€/an</p>
+              <p class="text-stone-500 text-xs mb-1">soit moins de 12€/cours</p>
+              <p class="text-orange-900/80 italic text-sm mb-2">Soutien</p>
+              <p class="text-stone-600 text-sm">Un soutien (si vous le pouvez) qui me permet de continuer à proposer des cours accessibles à tous et toutes.</p>
+            </div>
+          </div>
+
+          <p class="text-stone-600 text-sm mb-2">
+            Ces tarifs s'entendent hors adhésion annuelle à l'association Larchant Animation, obligatoire pour participer aux cours : <span class="font-bold">15 à 20€/an</span> en plus du tarif choisi.
+          </p>
+
+          <p class="text-stone-600 text-sm">
+            En cas de double inscription, <span class="font-bold">20% de réduction</span> pour un deuxième cours de yoga ou une seconde activité proposée par Larchant Animation.
           </p>
         </section>
 

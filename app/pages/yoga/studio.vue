@@ -216,7 +216,7 @@
           </p>
 
           <p class="text-stone-600 text-sm">
-            En cas de double inscription, <span class="font-bold">20% de réduction</span> pour un deuxième cours de yoga ou une seconde activité proposée par Larchant Animation.
+            En cas de double inscription, <span class="font-bold">10% de réduction</span> pour un deuxième cours de yoga ou une seconde activité proposée par Larchant Animation.
           </p>
         </section>
 

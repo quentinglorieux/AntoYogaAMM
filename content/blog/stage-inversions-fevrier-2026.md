@@ -36,7 +36,3 @@ Pour terminer, une séance de pranayama allongé pour intégrer le travail du we
 Ce stage restera mon premier stage donné à mes élèves. Guider la pratique pendant 8h fut à la fois intense et passionnant. Le temps m'aura filé entre les mains, la prochaine fois nous ferons 10h!
 
 Merci à toutes et tous d'avoir été là. 🙏
-
----
-
-*Le prochain stage aura lieu les **11 et 12 avril 2026** au studio de Larchant. Les inscriptions sont ouvertes — [contactez-moi](mailto:antonine.rochet@hotmail.fr) pour réserver votre place.*

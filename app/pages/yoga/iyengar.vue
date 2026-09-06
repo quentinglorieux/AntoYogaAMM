@@ -66,7 +66,7 @@
         </section>
 
         <div class="mt-12 rounded-2xl overflow-hidden shadow-lg mx-2 sm:mx-40">
-          <NuxtImg src="/images/anto_kurmasana.png" alt="Antonine Rochet - Kurmasana" class="w-full h-auto" />
+          <NuxtImg src="/images/anto_kurmasana.jpg" alt="Antonine Rochet - Kurmasana" class="w-full h-auto" />
         </div>
 
         <!-- Bloc AFYI -->

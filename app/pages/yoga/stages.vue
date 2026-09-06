@@ -39,7 +39,7 @@
               <h2 class="text-3xl font-semibold text-stone-950 mb-2">7 et 8 novembre 2026</h2>
               <p class="text-orange-900/80 italic text-lg mb-4">Hatha Yoga avec Guillaume Tachon, professeur invité</p>
               <p class="text-stone-900 text-lg mb-6 leading-relaxed">
-                Un week-end au Studio de Larchant. Guillaume Tachon enseigne le Hatha Yoga et s'intéresse aux états de conscience modifiés.<br>
+                Un week-end de pratique au Studio de Larchant.<br>
                 <span class="font-medium bg-stone-100 text-orange-900 px-2 py-0.5 rounded italic">Horaires : 9h00–12h00 &amp; 13h00–15h00</span>
                 <span class="font-medium bg-stone-100 text-stone-900 px-2 py-0.5 rounded italic">Tarif : 100€ à régler sur place</span>
               </p>

@@ -72,7 +72,16 @@
                     <NuxtImg src="/images/lulu-om-nobg.png" alt="" class="w-full h-full object-contain hover:scale-150 hover:rotate-10  transition-transform duration-1000 transform relative z-10" />
                   </div>
                   <div>
-                    <p class="font-medium text-stone-900">10h45 – 12h00</p>
+                    <p class="font-medium text-stone-900">9h30 – 10h45</p>
+                    <p class="text-orange-900/80 italic text-sm">Débutant / Intermédiaire</p>
+                  </div>
+                </div>
+                <div class="flex items-center gap-4">
+                  <div class="w-14 h-14 shrink-0 bg-stone-50/80 rounded-full flex items-center justify-center relative">
+                    <NuxtImg src="/images/lulu-om-nobg.png" alt="" class="w-full h-full object-contain transform scale-150 relative z-10" />
+                  </div>
+                  <div>
+                    <p class="font-medium text-stone-900">11h00 – 12h15</p>
                     <p class="text-orange-900/80 italic text-sm">Débutant / Intermédiaire</p>
                   </div>
                 </div>

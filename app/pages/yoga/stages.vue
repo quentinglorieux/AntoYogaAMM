@@ -40,6 +40,7 @@
               <p class="text-stone-900 text-lg mb-6 leading-relaxed">
                 Un week-end de pratique au Studio de Larchant.<br>
                 <span class="font-medium bg-stone-100 text-orange-900 px-2 py-0.5 rounded italic">Horaires : 9h00–12h00 &amp; 13h30–16h30</span>
+                <span class="font-medium bg-stone-100 text-stone-900 px-2 py-0.5 rounded italic">Tarif : 100€</span>
               </p>
 
               <div class="flex flex-col sm:flex-row items-center gap-4 pt-2">

@@ -60,7 +60,8 @@
                 <div class="flex-1">
                   <h3 class="text-xl font-medium text-stone-950">Pratique débutant / intermédiaire</h3>
                   <ul class="mt-2 space-y-1 text-stone-900">
-                    <li>Lundi — 10h45-12h00</li>
+                    <li>Lundi — 9h30–10h45</li>
+                    <li>Lundi — 11h00–12h15</li>
                     <li>Mardi — 18h30-20h00</li>
                     <li>Jeudi — 18h30–20h00</li>
                   </ul>

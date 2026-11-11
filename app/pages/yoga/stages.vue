@@ -36,12 +36,10 @@
                 Prochain stage
               </div>
 
-              <h2 class="text-3xl font-semibold text-stone-950 mb-2">7 et 8 novembre 2026</h2>
-              <p class="text-orange-900/80 italic text-lg mb-4">Hatha Yoga avec Guillaume Tachon, professeur invité</p>
+              <h2 class="text-3xl font-semibold text-stone-950 mb-2">28 et 29 novembre 2026</h2>
               <p class="text-stone-900 text-lg mb-6 leading-relaxed">
                 Un week-end de pratique au Studio de Larchant.<br>
-                <span class="font-medium bg-stone-100 text-orange-900 px-2 py-0.5 rounded italic">Horaires : 9h00–12h00 &amp; 13h00–15h00</span>
-                <span class="font-medium bg-stone-100 text-stone-900 px-2 py-0.5 rounded italic">Tarif : 100€ à régler sur place</span>
+                <span class="font-medium bg-stone-100 text-orange-900 px-2 py-0.5 rounded italic">Horaires : 9h00–12h00 &amp; 13h30–16h30</span>
               </p>
 
               <div class="flex flex-col sm:flex-row items-center gap-4 pt-2">
@@ -55,6 +53,19 @@
             </div>
           </div>
           <!-- Stages précédents -->
+          <div class="bg-white/50 rounded-2xl p-6 border border-stone-200/60 grayscale opacity-50 hover:opacity-80 transition-opacity">
+            <div class="flex justify-between items-start">
+              <div>
+                <div class="inline-block bg-stone-300 text-white text-[10px] font-bold uppercase tracking-widest px-2 py-0.5 rounded mb-3">
+                  Stage précédent
+                </div>
+                <h3 class="text-xl font-medium text-stone-800 mb-1">7 et 8 novembre 2026</h3>
+                <p class="text-stone-500">
+                  Hatha Yoga avec Guillaume Tachon, professeur invité — Studio de Larchant
+                </p>
+              </div>
+            </div>
+          </div>
           <div class="bg-white/50 rounded-2xl p-6 border border-stone-200/60 grayscale opacity-50 hover:opacity-80 transition-opacity">
             <div class="flex justify-between items-start">
               <div>
